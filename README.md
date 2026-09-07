@@ -28,7 +28,9 @@ That's what this project is for: turning STADIOchoice's reactive, one-size-fits-
 
 ## Problem Statement
 
-Section in progress.
+STADIOchoice cannot currently identify, ahead of time, which STADIOstream households are likely to cancel their subscription in the near term. As a result, retention offers are applied reactively and indiscriminately at the point of cancellation, rather than proactively to the households most at risk. This drives two costs at once: wasted retention spend on subscribers who would have stayed regardless, and unrecovered revenue from subscribers who churn silently without ever triggering the existing offer process.
+
+This is a data science problem because STADIOchoice already collects the behavioural, billing, and support signals needed to characterise churn risk before it happens, spread across streaming viewing logs, subscription and billing history, past cancellation and win-back outcomes, and customer support contacts. What is missing is a model that turns those historical patterns into a forward-looking churn risk score per household, so that retention action can be targeted rather than blanket. The project scope is to build and evaluate such a model, and to translate its output into a ranked, actionable list of at-risk households that STADIOchoice's retention process can use.
 
 ## Data Request
 

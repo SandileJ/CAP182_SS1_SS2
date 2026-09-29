@@ -16,6 +16,10 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Large or sensitive raw data, tracked deliberately per file, not by default
+# Large or sensitive raw data, tracked deliberately per file, not by default.
+# Real STADIOchoice client data must never be committed here. The Telco
+# Customer Churn dataset is public and used only as an SS2 proof of
+# viability, so it is tracked explicitly.
 datasets/raw/*
 !datasets/raw/.gitkeep
+!datasets/raw/Telco-Customer-Churn.csv

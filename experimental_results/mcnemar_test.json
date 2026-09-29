@@ -1,0 +1,6 @@
+{
+  "model1_wrong_model2_right": 66,
+  "model1_right_model2_wrong": 39,
+  "p_value": 0.010817905625818625,
+  "significant_at_0.05": true
+}

@@ -16,6 +16,9 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Peer review material from other students, not part of this submission
+Gavin/
+
 # Large or sensitive raw data, tracked deliberately per file, not by default.
 # Real STADIOchoice client data must never be committed here. The Telco
 # Customer Churn dataset is public and used only as an SS2 proof of

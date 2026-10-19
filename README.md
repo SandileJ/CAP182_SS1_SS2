@@ -2,21 +2,22 @@
 
 Client: STADIOchoice, used for every submission in this module.
 Module: CAP182 Capstone
-Submissions in this repository: SS1, SS2
+Submissions in this repository: SS1, SS2, SS3
 
-STADIOchoice is not yet ready to share its sensitive subscriber data, so before that data arrives, SS2 proves the churn prediction approach on a public dataset (Telco Customer Churn) as a stand in. Everything for both submissions lives in this one repository, this project does not switch client or repository between submissions.
+SS2 proved the churn prediction approach on a public dataset (Telco Customer Churn) while STADIOchoice's own data was still pending. SS3 applies that same method to the real STADIOchoice data extract, now received. Everything for all three submissions lives in this one repository, this project does not switch client or repository between submissions.
 
 ## Repository Structure
 
 | Folder | Purpose |
 | --- | --- |
-| `datasets/raw` | Original, unmodified data. For STADIOchoice's own data this is client confidential and ignored by git, tracked by a data dictionary instead. The public Telco Customer Churn dataset used for SS2 is tracked directly here, since it carries no confidentiality restriction. |
+| `datasets/raw` | Original, unmodified data. Anything genuinely confidential is ignored by git and tracked by a data dictionary instead. The public Telco Customer Churn dataset (SS2) and the STADIOchoice SS3 extract (`stadiochoice_ss3/`, explicitly synthetic per its own README) are both tracked directly, since neither carries a real confidentiality restriction. |
 | `datasets/processed` | Cleaned, joined, and feature engineered datasets derived from the raw data, ready for modelling, plus the train/test splits and model prediction outputs produced by the SS2 scripts. |
 | `models` | Trained model artifacts (`.joblib`) and the fitted feature scaler. |
 | `experimental_setup` | Reserved for future experiment definitions. SS2's experiment setup (feature sets, train/test splits, hyperparameters) currently lives directly in `scripts/`, see the Part B section below. |
 | `experimental_results` | Output of each experiment run: metrics, statistical test results, and plots. |
-| `scripts` | Preprocessing, feature engineering, model, and performance scripts. |
+| `scripts` | Preprocessing, feature engineering, model, and performance scripts (SS2). |
 | `reports` | Standalone PDF deliverables: SS1's Data Request, SS2's related work and data description report, and SS2's recommendations report. |
+| `SS3_PartB.ipynb` | SS3's notebook, applying the SS2 model to the real STADIOchoice data. |
 
 ## SS1
 
@@ -77,3 +78,23 @@ See `reports/Related_Work_And_Data_Description.pdf`.
 ### Recommendations
 
 See `reports/Recommendations.pdf`.
+
+## SS3
+
+STADIOchoice's real data has now been received (`datasets/raw/stadiochoice_ss3/`, six tables matching SS1's Part C data request exactly). SS3 applies SS2's chosen method (XGBoost) to this real data and reports back to the client.
+
+### Peer Review
+
+Submitted separately on Canvas. Peer: Gavin Rainier (STADIOcare claims capstone).
+
+### Applying the Model to Real Data
+
+See [SS3_PartB.ipynb](SS3_PartB.ipynb). Test set ROC-AUC of 0.950, ahead of SS2's Telco proxy result (0.844), consistent with the real behavioural data (viewing, search, support) supporting stronger features than Telco's static service flags.
+
+### Final Presentation
+
+Video link pending.
+
+### Response to Client
+
+GitHub Discussions are enabled on this repository for client questions, which begin after the SS3 deadline.

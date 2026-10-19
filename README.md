@@ -93,7 +93,7 @@ See [SS3_PartB.ipynb](SS3_PartB.ipynb). Test set ROC-AUC of 0.950, ahead of SS2'
 
 ### Final Presentation
 
-Video link pending.
+Slide deck: [SS3_PartC_Presentation.pptx](SS3_PartC_Presentation.pptx). Video link pending recording.
 
 ### Response to Client
 

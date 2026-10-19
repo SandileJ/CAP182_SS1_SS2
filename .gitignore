@@ -20,9 +20,12 @@ Thumbs.db
 Gavin/
 
 # Large or sensitive raw data, tracked deliberately per file, not by default.
-# Real STADIOchoice client data must never be committed here. The Telco
-# Customer Churn dataset is public and used only as an SS2 proof of
-# viability, so it is tracked explicitly.
+# Any genuinely confidential data must never be committed here. The Telco
+# Customer Churn dataset (SS2) is public, and the STADIOchoice SS3 extract
+# (datasets/raw/stadiochoice_ss3/) is explicitly synthetic per its own
+# README, so both are tracked.
 datasets/raw/*
 !datasets/raw/.gitkeep
 !datasets/raw/Telco-Customer-Churn.csv
+!datasets/raw/stadiochoice_ss3/
+!datasets/raw/stadiochoice_ss3/*

@@ -1,0 +1,989 @@
+household_id,cancel_request_date,cancel_reason_code,retention_offer_made,retention_offer_type,retention_offer_accepted,win_back_outcome
+HH-0040006,2026-06-19,Price,TRUE,Discount,TRUE,Returned later
+HH-0040010,2026-08-19,Content,TRUE,Free month,FALSE,Churned
+HH-0040013,2024-03-30,No reason given,FALSE,None,,Returned later
+HH-0040021,2025-11-11,Technical issue,FALSE,None,,Returned later
+HH-0040026,2026-06-04,Price,TRUE,Free month,FALSE,Churned
+HH-0040032,2025-08-29,Content,TRUE,Discount,FALSE,Churned
+HH-0040034,2026-05-02,Price,TRUE,Discount,FALSE,Churned
+HH-0040042,2026-06-03,Content,TRUE,Free month,FALSE,Returned later
+HH-0040044,2026-01-22,Price,FALSE,None,,Churned
+HH-0040047,2025-12-08,Price,TRUE,Free month,TRUE,Returned later
+HH-0040051,2026-02-11,Price,FALSE,None,,Churned
+HH-0040053,2026-05-02,Content,TRUE,Free month,FALSE,Churned
+HH-0040058,2024-01-24,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040059,2025-11-18,Price,TRUE,Discount,TRUE,Returned later
+HH-0040062,2025-12-16,Price,TRUE,Free month,FALSE,Returned later
+HH-0040067,2026-08-15,Price,TRUE,Free month,TRUE,Returned later
+HH-0040070,2024-09-08,No reason given,FALSE,None,,Churned
+HH-0040076,2025-08-09,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0040079,2025-06-13,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040080,2024-11-29,Technical issue,FALSE,None,,Churned
+HH-0040081,2025-06-08,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0040089,2025-12-08,Content,TRUE,Discount,FALSE,Churned
+HH-0040091,2025-07-31,No reason given,TRUE,Discount,FALSE,Churned
+HH-0040093,2024-08-16,Price,TRUE,Free month,FALSE,Churned
+HH-0040096,2025-03-26,No reason given,TRUE,Discount,TRUE,Returned later
+HH-0040109,2024-08-01,No reason given,FALSE,None,,Churned
+HH-0040110,2025-06-06,Price,FALSE,None,,Churned
+HH-0040111,2025-07-13,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0040117,2024-10-31,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040120,2025-06-20, Price ,FALSE,None,,Churned
+HH-0040123,2026-07-10,Price,TRUE,Free month,FALSE,Churned
+HH-0040137,2026-04-28,No reason given,TRUE,Discount,TRUE,Returned later
+HH-0040143,2026-02-03,Content,TRUE,Free month,FALSE,Churned
+HH-0040144,2026-04-27,No reason given,TRUE,Free month,TRUE,Retained
+HH-0040153,2026-02-16,Content,TRUE,Free month,FALSE,Churned
+HH-0040158,2024-12-19,Price,TRUE,Discount,TRUE,Retained
+HH-0040161,2026-07-16,Content,TRUE,Discount,FALSE,Churned
+HH-0040167,2025-08-27,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040168,2026-04-30,Price,TRUE,Free month,FALSE,Churned
+HH-0040169,2025-07-18,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040176,2026-02-24,No reason given,TRUE,Free month,FALSE,Churned
+HH-0040177,2026-05-31,Price,TRUE,Free month,FALSE,Returned later
+HH-0040181,2024-05-20,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040182,2025-07-06,Content,TRUE,Discount,TRUE,Returned later
+HH-0040189,2026-03-27,Technical issue,FALSE,None,,Churned
+HH-0040196,2026-07-22,Price,FALSE,None,,Churned
+HH-0040205,2026-05-10,No reason given,FALSE,None,,Churned
+HH-0040207,2025-12-17,No reason given,FALSE,None,,Churned
+HH-0040208,2026-05-31,Price,TRUE,Free month,TRUE,Retained
+HH-0040213,2026-07-19,Price,FALSE,None,,Churned
+HH-0040216,2025-06-06,Price,FALSE,None,,Churned
+HH-0040224,2023-12-31,Content,TRUE,Discount,FALSE,Churned
+HH-0040228,2025-09-03,No reason given,TRUE,Discount,TRUE,Retained
+HH-0040229,2024-08-13,Price,TRUE,Free month,TRUE,Returned later
+HH-0040230,2025-10-22,Technical issue,TRUE,Free month,TRUE,Returned later
+HH-0040234,2026-06-03,No reason given,FALSE,None,,Returned later
+HH-0040236,2026-06-29,Price,TRUE,Free month,FALSE,Churned
+HH-0040237,2026-08-19,Content,TRUE,Discount,FALSE,Churned
+HH-0040245,2026-01-30,Technical issue,FALSE,None,,Churned
+HH-0040248,2024-08-15,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040263,2025-08-28,Price,TRUE,Free month,FALSE,Churned
+HH-0040266,2026-01-05,No reason given,FALSE,None,,Returned later
+HH-0040267,2024-05-04,Price,FALSE,None,,Returned later
+HH-0040268,2024-01-08,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040276,2024-07-07,No reason given,TRUE,Discount,FALSE,Churned
+HH-0040278,2026-07-17,Price,TRUE,Free month,FALSE,Churned
+HH-0040279,2026-02-08,Price,FALSE,None,,Churned
+HH-0040286,2025-05-29,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0040291,2024-03-23,Technical issue,FALSE,None,,Churned
+HH-0040292,2026-04-16,Content,FALSE,None,,Returned later
+HH-0040296,2025-01-11,Price,TRUE,Free month,FALSE,Returned later
+HH-0040306,2025-09-03,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040307,2026-02-10,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0040308,2025-10-12,Price,TRUE,Discount,FALSE,Churned
+HH-0040322,2026-07-14,Price,FALSE,None,,Churned
+HH-0040325,2026-08-05,Price,FALSE,None,,Churned
+HH-0040326,2026-07-27,Price,FALSE,None,,Churned
+HH-0040332,2026-04-29,Price,TRUE,Discount,FALSE,Churned
+HH-0040337,2026-08-24,Content,TRUE,Free month,FALSE,Churned
+HH-0040343,2026-08-23,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040347,2026-07-20,Price,TRUE,Free month,TRUE,Retained
+HH-0040348,2026-01-07,Content,FALSE,None,,Returned later
+HH-0040353,2025-10-08,Price,TRUE,Discount,TRUE,Retained
+HH-0040357,2026-04-17,Price,TRUE,Free month,FALSE,Returned later
+HH-0040359,2026-06-30,Price,FALSE,None,,Churned
+HH-0040363,2025-12-22,Content,FALSE,None,,Churned
+HH-0040369,2026-02-02,No reason given,TRUE,Discount,TRUE,Retained
+HH-0040374,2024-12-29,Content,FALSE,None,,Churned
+HH-0040376,2026-04-20,Price,TRUE,Free month,TRUE,Retained
+HH-0040377,2023-11-21,Technical issue,FALSE,None,,Churned
+HH-0040378,2026-07-10,Price,TRUE,Discount,FALSE,Churned
+HH-0040380,2026-08-02,no reason given,FALSE,None,,Churned
+HH-0040389,2026-06-15,Technical issue,TRUE,Discount,TRUE,Returned later
+HH-0040394,2026-08-02,Price,TRUE,Discount,TRUE,Retained
+HH-0040397,2026-03-15,Price,FALSE,None,,Returned later
+HH-0040400,2026-04-19,Price,FALSE,None,,Churned
+HH-0040409,2026-08-19,Price,TRUE,Free month,FALSE,Churned
+HH-0040411,2026-05-25,No reason given,FALSE,None,,Churned
+HH-0040423,2026-07-17,Price,TRUE,Free month,TRUE,Retained
+HH-0040430,2025-05-20,Price,TRUE,Discount,FALSE,Churned
+HH-0040432,2025-09-07,Price,FALSE,None,,Churned
+HH-0040439,2026-07-20,Price,FALSE,None,,Churned
+HH-0040445,2026-05-28,No reason given,FALSE,None,,Churned
+HH-0040449,2024-12-28,Content,TRUE,Discount,FALSE,Churned
+HH-0040452,2026-08-18,Price,TRUE,Discount,FALSE,Churned
+HH-0040454,2026-04-30,Content,TRUE,Free month,FALSE,Churned
+HH-0040459,2026-01-03,Technical issue,FALSE,None,,Churned
+HH-0040465,2025-04-25,Content,TRUE,Free month,TRUE,Returned later
+HH-0040469,2026-08-19,Price,TRUE,Free month,FALSE,Churned
+HH-0040471,2026-08-26,Content,FALSE,None,,Churned
+HH-0040484,2025-02-23,Content,TRUE,Free month,FALSE,Churned
+HH-0040486,2026-01-05,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040495,2026-02-08,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040498,2026-06-24,Content,FALSE,None,,Churned
+HH-0040501,2025-08-13,No reason given,FALSE,None,,Churned
+HH-0040508,2026-08-25,Technical issue,FALSE,None,,Churned
+HH-0040509,2026-07-03,Price,TRUE,Discount,FALSE,Churned
+HH-0040516,2026-08-06,Price,FALSE,None,,Returned later
+HH-0040534,2025-11-13,No reason given,TRUE,Free month,TRUE,Retained
+HH-0040541,2025-10-21,Content,TRUE,Discount,FALSE,Churned
+HH-0040543,2025-07-22,Price,TRUE,Free month,FALSE,Churned
+HH-0040545,2025-09-27,Price,TRUE,Discount,TRUE,Retained
+HH-0040559,2025-11-02,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040560,2026-02-27,Price,TRUE,Free month,TRUE,Retained
+HH-0040563,2026-01-02,Price,FALSE,None,,Churned
+HH-0040579,2025-05-25,No reason given,TRUE,Discount,TRUE,Retained
+HH-0040582,2025-10-27,Price,TRUE,Free month,FALSE,Churned
+HH-0040588,2026-03-06,No reason given,TRUE,Discount,FALSE,Churned
+HH-0040590,2026-06-19,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040597,2026-08-05,No reason given,TRUE,Discount,FALSE,Churned
+HH-0040599,2025-12-11,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040600,2026-07-19,Technical issue,TRUE,Free month,FALSE,Returned later
+HH-0040601,2024-09-09,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040610,2026-08-21,Technical issue,FALSE,None,,Churned
+HH-0040616,2024-03-27,Technical issue,FALSE,None,,Churned
+HH-0040617,2024-12-27,Price,TRUE,Discount,FALSE,Returned later
+HH-0040618,2026-04-16,No reason given,FALSE,None,,Churned
+HH-0040621,2026-08-06,Price,TRUE,Discount,FALSE,Churned
+HH-0040625,2026-08-17,Price,TRUE,Discount,FALSE,Churned
+HH-0040628,2025-08-15,No reason given,TRUE,Discount,TRUE,Retained
+HH-0040635,2026-01-28,Content,FALSE,None,,Churned
+HH-0040636,2026-03-21,Price,TRUE,Discount,TRUE,Returned later
+HH-0040640,2026-06-03,Price,FALSE,None,,Churned
+HH-0040643,2025-01-31,Content,TRUE,Discount,TRUE,Retained
+HH-0040644,2026-03-29,Content,FALSE,None,,Churned
+HH-0040645,2025-10-21,Price,FALSE,None,,Churned
+HH-0040647,2026-06-20,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0040665,2025-01-09,CONTENT,FALSE,None,,Churned
+HH-0040668,2025-07-15,Content,TRUE,Discount,TRUE,Retained
+HH-0040669,2026-07-09,Content,TRUE,Discount,FALSE,Churned
+HH-0040691,2025-12-05,No reason given,FALSE,None,,Churned
+HH-0040693,2026-06-27,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040709,2026-01-03,No reason given,FALSE,None,,Churned
+HH-0040711,2025-08-27,No reason given,TRUE,Free month,FALSE,Returned later
+HH-0040716,2024-10-22,Content,FALSE,None,,Churned
+HH-0040717,2025-08-31,Content,TRUE,Discount,FALSE,Churned
+HH-0040719,2026-05-15,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040720,2026-04-05,Price,TRUE,Free month,FALSE,Returned later
+HH-0040728,2025-07-10,Price,TRUE,Free month,TRUE,Retained
+HH-0040729,2026-02-06,Content,FALSE,None,,Churned
+HH-0040733,2026-08-15,Content,TRUE,Free month,TRUE,Retained
+HH-0040736,2026-01-18,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040737,2025-11-03,Price,TRUE,Free month,TRUE,Returned later
+HH-0040741,2026-06-18,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0040756,2025-07-28,Price,FALSE,None,,Churned
+HH-0040758,2026-06-19,Content,TRUE,Free month,FALSE,Churned
+HH-0040762,2026-01-21,Content,FALSE,None,,Churned
+HH-0040766,2025-10-21,No reason given,TRUE,Free month,FALSE,Churned
+HH-0040776,2025-03-08,Price,TRUE,Discount,FALSE,Churned
+HH-0040777,2025-10-27,No reason given,TRUE,Discount,FALSE,Churned
+HH-0040779,2026-07-02,Price,TRUE,Discount,FALSE,Churned
+HH-0040784,2025-12-15,No reason given,FALSE,None,,Churned
+HH-0040786,2026-08-17,No reason given,TRUE,Discount,TRUE,Retained
+HH-0040798,2025-07-29,Price,TRUE,Free month,FALSE,Churned
+HH-0040803,2025-10-21,Price,TRUE,Free month,FALSE,Churned
+HH-0040805,2024-10-30,No reason given,FALSE,None,,Churned
+HH-0040810,2025-08-10,Price,TRUE,Discount,TRUE,Returned later
+HH-0040813,2026-06-25,Price,FALSE,None,,Churned
+HH-0040814,2025-02-11,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040815,2026-03-07,Content,TRUE,Free month,TRUE,Returned later
+HH-0040820,2025-09-08,Price,TRUE,Discount,TRUE,Returned later
+HH-0040829,2025-12-11,Content,TRUE,Free month,FALSE,Returned later
+HH-0040831,2026-08-09,Technical issue,FALSE,None,,Churned
+HH-0040832,2025-07-30,Content,TRUE,Free month,FALSE,Churned
+HH-0040840,2026-04-03,Price,TRUE,Discount,FALSE,Churned
+HH-0040852,2025-07-24,Content,TRUE,Free month,FALSE,Churned
+HH-0040862,2025-09-23,Price,TRUE,Discount,TRUE,Retained
+HH-0040870,2025-12-02,No reason given,TRUE,Free month,FALSE,Churned
+HH-0040873,2025-09-20,Price,TRUE,Discount,FALSE,Churned
+HH-0040878,2026-07-10,Price,TRUE,Discount,FALSE,Churned
+HH-0040881,2026-03-07,No reason given,TRUE,Free month,FALSE,Returned later
+HH-0040884,2025-06-07,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0040888,2026-07-19,Price,FALSE,None,,Churned
+HH-0040890,2025-05-29,Price,TRUE,Discount,FALSE,Churned
+HH-0040895,2026-08-14,Content,TRUE,Discount,TRUE,Retained
+HH-0040897,2026-03-04,Content,TRUE,Discount,FALSE,Churned
+HH-0040902,2026-07-18,Price,TRUE,Discount,FALSE,Returned later
+HH-0040913,2026-07-18,Price,FALSE,None,,Churned
+HH-0040917,2026-01-15,Price,FALSE,None,,Churned
+HH-0040922,2025-08-01,No reason given,TRUE,Discount,TRUE,Retained
+HH-0040930,2026-07-25,No reason given,TRUE,Discount,TRUE,Returned later
+HH-0040938,2026-07-28,Technical issue,TRUE,Discount,TRUE,Returned later
+HH-0040943,2025-09-29,No reason given,FALSE,None,,Churned
+HH-0040949,2026-01-13,Content,TRUE,Free month,TRUE,Retained
+HH-0040952,2026-08-06,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040954,2025-06-07,Price,FALSE,None,,Returned later
+HH-0040957,2026-03-27,Price,TRUE,Free month,TRUE,Retained
+HH-0040959,2026-04-02,No reason given,FALSE,None,,Churned
+HH-0040965,2026-04-08,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0040968,2025-01-03,No reason given,FALSE,None,,Returned later
+HH-0040984,2025-08-27,No reason given,FALSE,None,,Churned
+HH-0040985,2026-03-30,Content,TRUE,Discount,FALSE,Churned
+HH-0040990,2025-12-20,Content,FALSE,None,,Churned
+HH-0041008,2024-10-18,Price,TRUE,Free month,FALSE,Churned
+HH-0041012,2026-06-05,Price,FALSE,None,,Churned
+HH-0041015,2026-08-19,Price,FALSE,None,,Churned
+HH-0041016,2026-06-14,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041020,2023-11-05,Content,TRUE,Discount,FALSE,Churned
+HH-0041038,2026-08-07,Price,FALSE,None,,Churned
+HH-0041042,2024-11-30,Price,FALSE,None,,Churned
+HH-0041043,2026-07-27,Price,FALSE,None,,Returned later
+HH-0041052,2026-04-14,Price,TRUE,Discount,TRUE,Retained
+HH-0041054,2026-06-18,Price,FALSE,None,,Churned
+HH-0041058,2026-03-13,Content,TRUE,Discount,TRUE,Retained
+HH-0041067,2026-05-02,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0041071,2025-10-05,Content,FALSE,None,,Churned
+HH-0041073,2026-08-27,Content,FALSE,None,,Churned
+HH-0041081,2025-11-23,Price,FALSE,None,,Churned
+HH-0041084,2024-10-17,Technical issue,FALSE,None,,Churned
+HH-0041086,2025-03-15,Price,TRUE,Discount,FALSE,Churned
+HH-0041089,2024-03-21,Price,TRUE,Free month,FALSE,Churned
+HH-0041114,2025-08-02,Content,TRUE,Free month,FALSE,Returned later
+HH-0041120,2026-07-06,Content,TRUE,Free month,FALSE,Churned
+HH-0041126,2026-01-16,Price,TRUE,Discount,FALSE,Churned
+HH-0041128,2026-05-13,Content,TRUE,Discount,FALSE,Churned
+HH-0041130,2026-06-20,Content,FALSE,None,,Returned later
+HH-0041133,2024-03-26,Price,FALSE,None,,Returned later
+HH-0041134,2026-05-21,Technical issue,FALSE,None,,Churned
+HH-0041135,2026-02-08,Content,TRUE,Discount,TRUE,Retained
+HH-0041149,2026-03-02,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0041160,2025-10-08,Content,TRUE,Discount,FALSE,Churned
+HH-0041163,2026-06-12,Content,TRUE,Discount,TRUE,Retained
+HH-0041166,2026-04-23,Price,TRUE,Free month,TRUE,Returned later
+HH-0041168,2026-03-04,Content,TRUE,Free month,FALSE,Churned
+HH-0041178,2026-01-20,Price,TRUE,Discount,TRUE,Retained
+HH-0041179,2026-05-12,Price,TRUE,Discount,TRUE,Retained
+HH-0041181,2026-07-28,Price,TRUE,Free month,FALSE,Churned
+HH-0041184,2026-05-19,Price,TRUE,Discount,FALSE,Churned
+HH-0041188,2026-04-04,Technical issue,FALSE,None,,Churned
+HH-0041189,2026-05-28,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0041190,2026-04-03,Content,TRUE,Free month,FALSE,Churned
+HH-0041193,2026-07-23,Price,FALSE,None,,Churned
+HH-0041194,2026-06-09,Price,TRUE,Discount,TRUE,Retained
+HH-0041195,2026-06-11,Price,FALSE,None,,Returned later
+HH-0041212,2026-08-17,Technical issue,TRUE,Discount,FALSE,Returned later
+HH-0041225,2026-05-28,Content,FALSE,None,,Returned later
+HH-0041230,2025-07-08,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0041241,2026-03-16,Content,FALSE,None,,Churned
+HH-0041245,2026-02-02,Content,TRUE,Discount,TRUE,Retained
+HH-0041266,2026-07-03,Price,TRUE,Discount,FALSE,Churned
+HH-0041269,2025-05-12,Content,TRUE,Discount,FALSE,Churned
+HH-0041271,2026-06-25,Content,FALSE,None,,Churned
+HH-0041273,2024-06-03,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0041277,2026-04-04,Price,FALSE,None,,Churned
+HH-0041279,2026-07-31,Content,FALSE,None,,Churned
+HH-0041281,2026-03-22,Content,TRUE,Discount,FALSE,Churned
+HH-0041283,2026-06-02,Price,TRUE,Discount,FALSE,Churned
+HH-0041295,2024-08-11,Content,FALSE,None,,Churned
+HH-0041296,2024-10-22,Price,TRUE,Free month,FALSE,Churned
+HH-0041297,2026-03-11,Content,FALSE,None,,Churned
+HH-0041303,2025-09-10, Content ,FALSE,None,,Churned
+HH-0041304,2025-12-30,Price,TRUE,Discount,TRUE,Retained
+HH-0041307,2026-06-09,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041309,2026-07-16,Price,TRUE,Discount,FALSE,Returned later
+HH-0041318,2024-06-28,Technical issue,FALSE,None,,Churned
+HH-0041320,2026-08-08,Price,FALSE,None,,Churned
+HH-0041321,2026-04-21,Content,FALSE,None,,Churned
+HH-0041332,2026-05-16,Price,FALSE,None,,Churned
+HH-0041344,2025-07-09,Price,TRUE,Free month,TRUE,Returned later
+HH-0041345,2026-02-05,Price,FALSE,None,,Churned
+HH-0041356,2026-06-19,Price,TRUE,Discount,FALSE,Churned
+HH-0041360,2026-03-31,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041366,2025-11-21,Content,TRUE,Discount,FALSE,Churned
+HH-0041367,2026-02-02,Price,FALSE,None,,Churned
+HH-0041370,2025-08-31,Content,FALSE,None,,Churned
+HH-0041371,2026-03-23,Price,FALSE,None,,Returned later
+HH-0041373,2025-12-19,Price,TRUE,Free month,FALSE,Returned later
+HH-0041382,2026-04-22,Content,TRUE,Discount,FALSE,Churned
+HH-0041383,2026-04-10,No reason given,FALSE,None,,Returned later
+HH-0041387,2025-09-20,Price,TRUE,Free month,FALSE,Churned
+HH-0041389,2026-02-22,Content,FALSE,None,,Churned
+HH-0041393,2026-01-14,Content,FALSE,None,,Churned
+HH-0041396,2026-01-23,Price,FALSE,None,,Churned
+HH-0041398,2026-02-11,Content,TRUE,Free month,TRUE,Retained
+HH-0041399,2025-07-13,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041402,2025-08-17,Price,TRUE,Discount,FALSE,Churned
+HH-0041406,2026-07-13,No reason given,FALSE,None,,Churned
+HH-0041411,2025-12-04,No reason given,TRUE,Discount,FALSE,Churned
+HH-0041412,2025-05-25,Price,FALSE,None,,Churned
+HH-0041413,2026-08-01,Price,TRUE,Free month,FALSE,Churned
+HH-0041417,2025-05-03,No reason given,FALSE,None,,Churned
+HH-0041418,2024-12-21,Price,FALSE,None,,Churned
+HH-0041423,2025-09-08,Price,TRUE,Discount,FALSE,Returned later
+HH-0041426,2025-07-18,Price,TRUE,Free month,TRUE,Retained
+HH-0041427,2026-05-14,content,TRUE,Free month,FALSE,Churned
+HH-0041428,2025-10-22,Content,FALSE,None,,Returned later
+HH-0041434,2026-03-24,Price,TRUE,Free month,TRUE,Retained
+HH-0041435,2025-09-14,Content,FALSE,None,,Churned
+HH-0041436,2026-08-02,Content,TRUE,Discount,TRUE,Returned later
+HH-0041438,2026-01-09,No reason given,TRUE,Free month,FALSE,Churned
+HH-0041439,2026-07-04,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0041449,2026-04-17,Technical issue,FALSE,None,,Churned
+HH-0041456,2024-09-13,Content,TRUE,Discount,FALSE,Churned
+HH-0041463,2026-06-02,Technical issue,FALSE,None,,Churned
+HH-0041464,2026-07-16,No reason given,TRUE,Discount,FALSE,Churned
+HH-0041472,2026-08-12,Price,TRUE,Discount,TRUE,Returned later
+HH-0041473,2025-07-20,Price,FALSE,None,,Churned
+HH-0041476,2026-05-02,No reason given,TRUE,Free month,FALSE,Churned
+HH-0041482,2026-01-21,No reason given,TRUE,Discount,TRUE,Retained
+HH-0041485,2025-10-15,Content,FALSE,None,,Churned
+HH-0041487,2025-08-20,Content,TRUE,Discount,FALSE,Churned
+HH-0041489,2025-05-13,Price,TRUE,Discount,FALSE,Churned
+HH-0041501,2026-07-10,No reason given,FALSE,None,,Churned
+HH-0041503,2026-06-17,Content,TRUE,Free month,FALSE,Returned later
+HH-0041511,2025-09-25,Technical issue,FALSE,None,,Returned later
+HH-0041512,2026-07-11,Price,FALSE,None,,Churned
+HH-0041513,2025-06-12,Content,FALSE,None,,Churned
+HH-0041515,2026-05-12,Content,TRUE,Discount,FALSE,Churned
+HH-0041523,2026-01-11,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0041525,2026-03-20,No reason given,TRUE,Free month,TRUE,Retained
+HH-0041528,2024-10-16,Content,TRUE,Free month,FALSE,Churned
+HH-0041530,2026-04-06,Price,TRUE,Free month,FALSE,Churned
+HH-0041538,2025-09-06,No reason given,TRUE,Free month,TRUE,Retained
+HH-0041541,2024-11-13,Content,FALSE,None,,Churned
+HH-0041542,2026-08-14,Content,TRUE,Discount,FALSE,Churned
+HH-0041548,2026-03-04,Price,TRUE,Free month,FALSE,Churned
+HH-0041550,2025-11-13,Technical issue,FALSE,None,,Churned
+HH-0041552,2024-10-25,Content,FALSE,None,,Churned
+HH-0041565,2026-03-24,Price,FALSE,None,,Churned
+HH-0041568,2026-07-16,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0041569,2026-01-01,Technical issue,FALSE,None,,Churned
+HH-0041574,2026-01-23,Content,TRUE,Discount,FALSE,Churned
+HH-0041576,2026-05-19,Content,TRUE,Free month,FALSE,Churned
+HH-0041577,2026-02-22,No reason given,TRUE,Discount,FALSE,Churned
+HH-0041578,2026-07-11,No reason given,FALSE,None,,Churned
+HH-0041582,2026-03-23,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0041586,2026-06-02,Technical issue,FALSE,None,,Churned
+HH-0041595,2025-12-08,Price,FALSE,None,,Churned
+HH-0041596,2026-04-30,Price,TRUE,Discount,TRUE,Retained
+HH-0041599,2026-01-12,No reason given,TRUE,Free month,FALSE,Churned
+HH-0041609,2025-09-11,Content,FALSE,None,,Churned
+HH-0041611,2024-11-24,Content,TRUE,Discount,FALSE,Churned
+HH-0041619,2026-02-24,Content,TRUE,Free month,FALSE,Churned
+HH-0041620,2025-05-27,Price,TRUE,Discount,FALSE,Churned
+HH-0041624,2026-04-11,No reason given,FALSE,None,,Churned
+HH-0041631,2024-08-21,Technical issue,FALSE,None,,Churned
+HH-0041636,2026-06-03,Content,FALSE,None,,Churned
+HH-0041638,2025-08-07,Content,TRUE,Free month,FALSE,Returned later
+HH-0041642,2025-08-13,Price,FALSE,None,,Churned
+HH-0041643,2024-03-11,Content,TRUE,Discount,FALSE,Churned
+HH-0041644,2025-01-12,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041645,2024-08-11,Price,TRUE,Free month,FALSE,Churned
+HH-0041657,2026-08-18,No reason given,FALSE,None,,Churned
+HH-0041664,2026-08-24,Price,FALSE,None,,Churned
+HH-0041669,2024-12-07,No reason given,TRUE,Free month,FALSE,Returned later
+HH-0041676,2025-11-29,Price,FALSE,None,,Churned
+HH-0041683,2024-09-18,Technical issue,FALSE,None,,Churned
+HH-0041687,2024-08-24,No reason given,FALSE,None,,Churned
+HH-0041698,2026-01-13,Content,TRUE,Discount,FALSE,Churned
+HH-0041715,2025-11-26,Price,FALSE,None,,Churned
+HH-0041717,2026-02-21,Price,FALSE,None,,Churned
+HH-0041720,2026-06-22,Technical issue,FALSE,None,,Churned
+HH-0041721,2026-04-08,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0041724,2026-07-28,No reason given,TRUE,Free month,FALSE,Churned
+HH-0041725,2026-01-22,Price,TRUE,Discount,FALSE,Churned
+HH-0041737,2026-08-25,Content,FALSE,None,,Churned
+HH-0041744,2026-05-02,Content,TRUE,Discount,FALSE,Churned
+HH-0041746,2025-11-30,Price,FALSE,None,,Churned
+HH-0041747,2025-09-21,No reason given,TRUE,Free month,FALSE,Churned
+HH-0041759,2025-11-03,Content,TRUE,Free month,TRUE,Returned later
+HH-0041769,2025-04-08,Content,FALSE,None,,Churned
+HH-0041773,2026-05-29,No reason given,TRUE,Free month,FALSE,Returned later
+HH-0041779,2026-03-12,Price,TRUE,Free month,TRUE,Retained
+HH-0041781,2026-05-27,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041789,2025-08-16,Content,TRUE,Discount,FALSE,Churned
+HH-0041791,2026-06-07,Price,TRUE,Free month,FALSE,Returned later
+HH-0041796,2025-04-03,No reason given,TRUE,Discount,FALSE,Churned
+HH-0041810,2026-04-06,Price,FALSE,None,,Churned
+HH-0041811,2026-08-25,Content,TRUE,Discount,FALSE,Churned
+HH-0041816,2025-10-23,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041821,2025-11-09,Price,TRUE,Discount,FALSE,Churned
+HH-0041823,2024-08-18,Price,FALSE,None,,Churned
+HH-0041825,2026-05-10,No reason given,TRUE,Discount,FALSE,Churned
+HH-0041830,2025-06-23,Content,FALSE,None,,Churned
+HH-0041833,2025-05-04,No reason given,FALSE,None,,Returned later
+HH-0041845,2026-03-07,Content,TRUE,Discount,TRUE,Retained
+HH-0041864,2026-06-23,No reason given,FALSE,None,,Returned later
+HH-0041865,2026-04-21,Content,TRUE,Free month,FALSE,Churned
+HH-0041867,2025-12-11,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041870,2026-05-11,Content,TRUE,Discount,TRUE,Returned later
+HH-0041872,2024-10-22,Price,TRUE,Free month,FALSE,Churned
+HH-0041875,2026-06-09,Content,TRUE,Discount,TRUE,Retained
+HH-0041879,2026-04-04,Content,FALSE,None,,Returned later
+HH-0041882,2026-08-19,Technical issue,FALSE,None,,Churned
+HH-0041883,2024-02-23,Content,TRUE,Free month,FALSE,Churned
+HH-0041886,2025-04-07,Content,TRUE,Free month,TRUE,Retained
+HH-0041887,2025-12-07,Price,TRUE,Discount,TRUE,Retained
+HH-0041888,2025-09-19,Content,TRUE,Discount,FALSE,Churned
+HH-0041889,2023-12-03,Price,TRUE,Free month,FALSE,Churned
+HH-0041891,2026-08-22,Price,FALSE,None,,Churned
+HH-0041894,2024-03-27,Content,TRUE,Discount,FALSE,Churned
+HH-0041896,2025-06-27,Content,TRUE,Discount,FALSE,Churned
+HH-0041900,2024-05-09,Price,TRUE,Discount,FALSE,Churned
+HH-0041902,2025-12-27,Technical issue,FALSE,None,,Churned
+HH-0041904,2025-09-03,Technical issue,FALSE,None,,Churned
+HH-0041905,2026-08-13,Price,TRUE,Discount,FALSE,Churned
+HH-0041906,2025-10-23,Price,TRUE,Free month,TRUE,Retained
+HH-0041916,2026-05-08,No reason given,TRUE,Discount,FALSE,Churned
+HH-0041921,2026-01-26,Content,FALSE,None,,Churned
+HH-0041925,2024-11-10,Technical issue,FALSE,None,,Churned
+HH-0041927,2025-11-23,Price,FALSE,None,,Churned
+HH-0041929,2024-12-23,Content,TRUE,Discount,TRUE,Retained
+HH-0041930,2026-08-02,No reason given,FALSE,None,,Churned
+HH-0041931,2025-10-24,Content,TRUE,Discount,TRUE,Retained
+HH-0041932,2025-07-21,Price,TRUE,Discount,TRUE,Retained
+HH-0041934,2026-03-03,Content,FALSE,None,,Churned
+HH-0041937,2026-08-08,Price,TRUE,Discount,FALSE,Churned
+HH-0041945,2025-06-22,Content,FALSE,None,,Returned later
+HH-0041955,2025-12-23,Content,TRUE,Free month,FALSE,Churned
+HH-0041956,2026-05-05,No reason given,FALSE,None,,Returned later
+HH-0041957,2026-07-21,Price,FALSE,None,,Returned later
+HH-0041958,2026-08-17,Content,FALSE,None,,Churned
+HH-0041963,2025-09-24,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041964,2026-07-20,No reason given,FALSE,None,,Returned later
+HH-0041965,2025-07-08,No reason given,FALSE,None,,Returned later
+HH-0041967,2026-08-16,No reason given,TRUE,Free month,TRUE,Retained
+HH-0041981,2026-01-31,Price,TRUE,Free month,FALSE,Churned
+HH-0041984,2026-08-02,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0041986,2026-02-22,Price,TRUE,Discount,FALSE,Churned
+HH-0041987,2026-07-06,Technical issue,TRUE,Discount,FALSE,Returned later
+HH-0041999,2025-07-30,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042005,2026-03-20,Technical issue,FALSE,None,,Churned
+HH-0042015,2026-07-27,Price,FALSE,None,,Churned
+HH-0042018,2026-01-16,Content,TRUE,Discount,FALSE,Churned
+HH-0042023,2025-05-08,No reason given,TRUE,Free month,TRUE,Returned later
+HH-0042028,2026-08-05,Price,TRUE,Discount,FALSE,Churned
+HH-0042031,2026-07-23,Technical issue,TRUE,Free month,FALSE,Returned later
+HH-0042042,2025-12-18,Price,TRUE,Discount,TRUE,Retained
+HH-0042044,2024-10-31,Content,TRUE,Discount,FALSE,Churned
+HH-0042047,2025-03-03,No reason given,FALSE,None,,Returned later
+HH-0042049,2026-08-19,Content,TRUE,Discount,FALSE,Churned
+HH-0042053,2026-06-16,Content,TRUE,Discount,FALSE,Churned
+HH-0042057,2025-02-08,Price,TRUE,Discount,TRUE,Retained
+HH-0042061,2024-04-11,Price,FALSE,None,,Churned
+HH-0042062,2025-10-05,Price,TRUE,Discount,TRUE,Retained
+HH-0042064,2026-08-26,Content,TRUE,Discount,FALSE,Churned
+HH-0042073,2025-09-02,Price,TRUE,Free month,TRUE,Returned later
+HH-0042078,2026-07-29,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0042079,2025-03-24,Content,TRUE,Free month,FALSE,Churned
+HH-0042080,2026-05-02,Content,TRUE,Free month,FALSE,Churned
+HH-0042091,2023-08-17,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042103,2026-02-19,Content,FALSE,None,,Returned later
+HH-0042113,2026-07-22,Content,FALSE,None,,Churned
+HH-0042116,2026-03-25,No reason given,FALSE,None,,Churned
+HH-0042128,2025-03-22,Price,FALSE,None,,Churned
+HH-0042129,2025-10-18,Price,TRUE,Discount,FALSE,Churned
+HH-0042140,2024-08-05,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0042162,2025-02-11,No reason given,FALSE,None,,Churned
+HH-0042167,2026-07-23,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042169,2026-06-18,No reason given,FALSE,None,,Churned
+HH-0042179,2025-12-23,Price,TRUE,Discount,FALSE,Churned
+HH-0042185,2026-06-24,Content,TRUE,Discount,FALSE,Churned
+HH-0042187,2024-12-06,Technical issue,TRUE,Free month,FALSE,Returned later
+HH-0042188,2024-08-12,Price,TRUE,Discount,FALSE,Churned
+HH-0042193,2025-03-12,No reason given,TRUE,Free month,TRUE,Retained
+HH-0042208,2025-08-20,Content,FALSE,None,,Churned
+HH-0042209,2025-07-03,Price,FALSE,None,,Returned later
+HH-0042212,2026-08-20,No reason given,TRUE,Discount,FALSE,Churned
+HH-0042213,2026-01-23,Content,TRUE,Free month,TRUE,Retained
+HH-0042214,2025-10-03,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0042221,2026-06-21,Technical issue,FALSE,None,,Churned
+HH-0042226,2025-06-01,Price,TRUE,Discount,FALSE,Churned
+HH-0042227,2025-04-19,Content,TRUE,Free month,TRUE,Returned later
+HH-0042228,2025-07-20,No reason given,FALSE,None,,Returned later
+HH-0042231,2026-08-03,Price,TRUE,Free month,TRUE,Retained
+HH-0042232,2026-01-05,Content,TRUE,Discount,FALSE,Churned
+HH-0042245,2024-05-23,Price,TRUE,Discount,FALSE,Churned
+HH-0042246,2024-03-07,Price,TRUE,Discount,FALSE,Churned
+HH-0042249,2026-02-24,Price,FALSE,None,,Churned
+HH-0042251,2026-08-27,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042257,2026-05-17,Content,TRUE,Free month,TRUE,Retained
+HH-0042264,2026-01-29,Price,FALSE,None,,Churned
+HH-0042272,2025-10-22,no reason given,FALSE,None,,Churned
+HH-0042277,2026-08-10,Price,TRUE,Discount,FALSE,Returned later
+HH-0042279,2025-06-15,Content,TRUE,Free month,TRUE,Retained
+HH-0042280,2024-08-03,No reason given,FALSE,None,,Churned
+HH-0042287,2026-02-27,Content,FALSE,None,,Churned
+HH-0042289,2026-08-07,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0042292,2026-02-11,Content,FALSE,None,,Returned later
+HH-0042299,2025-02-17,Price,TRUE,Free month,FALSE,Churned
+HH-0042306,2026-07-09,Content,TRUE,Discount,FALSE,Returned later
+HH-0042308,2026-07-09,Technical issue,FALSE,None,,Churned
+HH-0042330,2025-08-23,Price,TRUE,Discount,TRUE,Retained
+HH-0042345,2024-11-05,technical issue,FALSE,None,,Churned
+HH-0042346,2026-06-27,Price,FALSE,None,,Churned
+HH-0042347,2026-01-07,Price,TRUE,Free month,FALSE,Churned
+HH-0042354,2026-05-22,Price,TRUE,Discount,TRUE,Retained
+HH-0042361,2026-02-26,Price,TRUE,Free month,FALSE,Churned
+HH-0042363,2025-03-28,No reason given,TRUE,Discount,FALSE,Churned
+HH-0042370,2026-08-05,Content,FALSE,None,,Churned
+HH-0042372,2026-06-04,Technical issue,FALSE,None,,Churned
+HH-0042377,2026-05-14,Price,TRUE,Free month,FALSE,Returned later
+HH-0042379,2026-01-14,CONTENT,TRUE,Discount,FALSE,Churned
+HH-0042384,2026-07-22,Price,FALSE,None,,Churned
+HH-0042388,2023-12-02,Price,TRUE,Free month,FALSE,Churned
+HH-0042391,2026-04-28,Price,FALSE,None,,Churned
+HH-0042395,2025-12-25,Technical issue,FALSE,None,,Churned
+HH-0042404,2026-03-28,Price,TRUE,Discount,FALSE,Churned
+HH-0042411,2026-01-21,Content,TRUE,Free month,FALSE,Churned
+HH-0042418,2025-11-21,Price,TRUE,Discount,FALSE,Returned later
+HH-0042421,2025-08-04,No reason given,TRUE,Discount,TRUE,Returned later
+HH-0042422,2026-01-31,Price,FALSE,None,,Churned
+HH-0042423,2026-02-16,Price,TRUE,Free month,FALSE,Churned
+HH-0042426,2026-07-15,Content,TRUE,Discount,FALSE,Churned
+HH-0042436,2025-09-21,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042442,2025-06-14,Content,TRUE,Discount,FALSE,Churned
+HH-0042443,2026-05-23,Technical issue,FALSE,None,,Churned
+HH-0042444,2024-01-19,Price,TRUE,Discount,FALSE,Churned
+HH-0042446,2025-12-11,No reason given,FALSE,None,,Churned
+HH-0042448,2026-02-17,Content,FALSE,None,,Churned
+HH-0042460,2025-02-09,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0042466,2025-05-06,Technical issue,TRUE,Discount,FALSE,Returned later
+HH-0042478,2025-12-17,Technical issue,FALSE,None,,Churned
+HH-0042479,2026-04-13,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0042491,2026-07-13,Price,FALSE,None,,Churned
+HH-0042508,2025-05-18,Content,TRUE,Free month,FALSE,Churned
+HH-0042513,2026-08-16,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042515,2026-03-05,Content,TRUE,Discount,FALSE,Churned
+HH-0042518,2026-04-08,No reason given,FALSE,None,,Returned later
+HH-0042522,2025-07-20,Content,TRUE,Free month,TRUE,Retained
+HH-0042525,2026-04-20,Price,FALSE,None,,Churned
+HH-0042533,2025-07-30,Content,FALSE,None,,Churned
+HH-0042542,2026-04-09,No reason given,TRUE,Discount,FALSE,Churned
+HH-0042545,2025-07-05,Content,TRUE,Free month,TRUE,Retained
+HH-0042548,2026-02-10,Content,FALSE,None,,Churned
+HH-0042552,2024-12-11,Content,TRUE,Discount,FALSE,Churned
+HH-0042560,2026-06-24,Price,FALSE,None,,Churned
+HH-0042562,2026-05-15,No reason given,TRUE,Discount,TRUE,Retained
+HH-0042570,2026-07-04,Price,TRUE,Discount,TRUE,Retained
+HH-0042571,2025-09-01,Content,FALSE,None,,Returned later
+HH-0042574,2024-08-17,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0042576,2026-07-30,No reason given,TRUE,Free month,FALSE,Churned
+HH-0042579,2025-06-22,No reason given,TRUE,Discount,FALSE,Churned
+HH-0042581,2026-07-07,Price,TRUE,Free month,TRUE,Retained
+HH-0042589,2026-01-02,No reason given,FALSE,None,,Churned
+HH-0042605,2026-02-26,Technical issue,FALSE,None,,Churned
+HH-0042610,2026-03-23,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0042611,2025-10-13,Technical issue,FALSE,None,,Churned
+HH-0042621,2025-09-06,Price,TRUE,Free month,TRUE,Retained
+HH-0042638,2025-06-27,No reason given,FALSE,None,,Churned
+HH-0042646,2025-09-06,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0042655,2026-05-28,No reason given,FALSE,None,,Returned later
+HH-0042657,2025-11-07,Price,FALSE,None,,Churned
+HH-0042658,2024-09-14,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042665,2026-03-06,Content,TRUE,Free month,FALSE,Churned
+HH-0042668,2026-08-05,Price,TRUE,Discount,FALSE,Churned
+HH-0042669,2026-08-19,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042670,2026-04-29,Technical issue,FALSE,None,,Churned
+HH-0042673,2025-10-21,Content,TRUE,Free month,TRUE,Returned later
+HH-0042678,2025-10-25,Technical issue,FALSE,None,,Churned
+HH-0042685,2026-08-13,No reason given,TRUE,Discount,FALSE,Churned
+HH-0042694,2025-08-23,Price,FALSE,None,,Churned
+HH-0042698,2025-06-12,Price,TRUE,Discount,FALSE,Returned later
+HH-0042713,2024-03-14,Price,FALSE,None,,Churned
+HH-0042715,2025-10-12,No reason given,TRUE,Discount,FALSE,Churned
+HH-0042717,2024-09-16,Price,TRUE,Free month,FALSE,Churned
+HH-0042719,2025-12-23,Technical issue,FALSE,None,,Churned
+HH-0042723,2025-05-07,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0042734,2023-09-28,No reason given,FALSE,None,,Churned
+HH-0042739,2026-08-10,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0042740,2025-06-06,Content,TRUE,Free month,FALSE,Returned later
+HH-0042750,2026-08-05,Price,TRUE,Discount,FALSE,Churned
+HH-0042751,2025-02-14,Price,TRUE,Free month,TRUE,Returned later
+HH-0042753,2026-07-28,No reason given,TRUE,Discount,TRUE,Retained
+HH-0042755,2026-01-28,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042760,2024-12-14,Content,TRUE,Discount,TRUE,Returned later
+HH-0042763,2026-04-13,Content,FALSE,None,,Churned
+HH-0042766,2025-04-14,No reason given,FALSE,None,,Churned
+HH-0042771,2026-04-03,Price,FALSE,None,,Churned
+HH-0042780,2025-09-24,Content,TRUE,Discount,FALSE,Returned later
+HH-0042782,2026-02-25,Technical issue,FALSE,None,,Churned
+HH-0042788,2026-03-02,No reason given,FALSE,None,,Churned
+HH-0042793,2026-08-14,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0042795,2025-09-24,Content,TRUE,Free month,FALSE,Churned
+HH-0042798,2025-08-21,Technical issue,FALSE,None,,Churned
+HH-0042799,2026-02-26,Price,TRUE,Discount,FALSE,Churned
+HH-0042803,2024-08-23,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0042804,2026-04-07,Price,FALSE,None,,Churned
+HH-0042809,2026-04-30,Price,FALSE,None,,Returned later
+HH-0042813,2026-02-20,Price,TRUE,Discount,FALSE,Churned
+HH-0042815,2025-09-07,Price,TRUE,Discount,FALSE,Churned
+HH-0042820,2026-02-15,No reason given,TRUE,Free month,FALSE,Churned
+HH-0042826,2025-11-06,Content,FALSE,None,,Churned
+HH-0042832,2025-06-25,Price,TRUE,Free month,FALSE,Returned later
+HH-0042834,2026-05-10,Price,FALSE,None,,Churned
+HH-0042838,2026-03-05,Price,TRUE,Discount,FALSE,Returned later
+HH-0042841,2026-08-18,Price,TRUE,Discount,FALSE,Churned
+HH-0042853,2024-02-24,Content,TRUE,Free month,FALSE,Churned
+HH-0042855,2026-08-03, Content ,FALSE,None,,Returned later
+HH-0042856,2024-07-24,Price,FALSE,None,,Churned
+HH-0042858,2026-05-17,Price,TRUE,Discount,FALSE,Churned
+HH-0042860,2025-09-02,Price,FALSE,None,,Returned later
+HH-0042876,2026-01-03,Technical issue,FALSE,None,,Churned
+HH-0042878,2026-07-13,Price,TRUE,Discount,FALSE,Churned
+HH-0042879,2026-07-11,Content,TRUE,Discount,FALSE,Churned
+HH-0042883,2026-05-31,No reason given,TRUE,Free month,FALSE,Churned
+HH-0042886,2026-01-14,Price,TRUE,Discount,TRUE,Retained
+HH-0042895,2026-05-08,Price,TRUE,Free month,TRUE,Retained
+HH-0042901,2025-05-13,Price,TRUE,Discount,TRUE,Returned later
+HH-0042910,2025-10-08,Price,FALSE,None,,Returned later
+HH-0042911,2025-11-13,No reason given,TRUE,Discount,FALSE,Churned
+HH-0042919,2026-02-07,Technical issue,FALSE,None,,Churned
+HH-0042923,2026-07-15,No reason given,FALSE,None,,Churned
+HH-0042924,2026-07-25,Content,FALSE,None,,Churned
+HH-0042931,2026-01-13,Content,TRUE,Discount,FALSE,Churned
+HH-0042933,2026-01-13,No reason given,TRUE,Free month,FALSE,Churned
+HH-0042940,2026-05-20,Content,FALSE,None,,Returned later
+HH-0042942,2026-07-24,No reason given,TRUE,Free month,FALSE,Churned
+HH-0042944,2024-02-03,Price,TRUE,Discount,FALSE,Churned
+HH-0042956,2025-05-03,No reason given,TRUE,Free month,FALSE,Churned
+HH-0042961,2025-07-22,Price,TRUE,Discount,FALSE,Returned later
+HH-0042974,2025-12-16,Price,TRUE,Free month,FALSE,Churned
+HH-0042975,2025-05-28,No reason given,FALSE,None,,Churned
+HH-0042979,2026-07-08,Content,FALSE,None,,Churned
+HH-0042981,2025-11-15,Technical issue,FALSE,None,,Churned
+HH-0042982,2026-03-14,No reason given,FALSE,None,,Churned
+HH-0042984,2026-07-04,Technical issue,FALSE,None,,Churned
+HH-0042986,2025-08-09,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0042994,2026-04-12,No reason given,FALSE,None,,Churned
+HH-0042997,2026-06-09,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0042999,2026-07-13,Content,TRUE,Discount,TRUE,Retained
+HH-0043005,2024-05-25,No reason given,FALSE,None,,Churned
+HH-0043008,2026-02-02,Content,FALSE,None,,Returned later
+HH-0043013,2026-07-08,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043023,2026-05-31,No reason given,TRUE,Free month,FALSE,Churned
+HH-0043032,2026-03-02,No reason given,TRUE,Free month,TRUE,Retained
+HH-0043035,2026-04-07,Price,FALSE,None,,Churned
+HH-0043037,2026-06-25,Content,TRUE,Discount,FALSE,Churned
+HH-0043040,2026-05-01,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043043,2025-08-29,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0043048,2026-05-26,No reason given,FALSE,None,,Churned
+HH-0043054,2026-04-24,Price,TRUE,Discount,TRUE,Retained
+HH-0043063,2024-08-30,Content,TRUE,Discount,FALSE,Churned
+HH-0043065,2024-05-10,Price,FALSE,None,,Churned
+HH-0043067,2026-05-19,Content,TRUE,Discount,FALSE,Returned later
+HH-0043071,2026-08-19,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043074,2025-08-11,Technical issue,FALSE,None,,Churned
+HH-0043077,2025-06-24,Content,FALSE,None,,Churned
+HH-0043079,2025-08-06,Price,TRUE,Discount,TRUE,Retained
+HH-0043090,2026-05-25,Content,TRUE,Discount,TRUE,Returned later
+HH-0043091,2024-08-30,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043099,2025-08-17,Price,FALSE,None,,Churned
+HH-0043100,2025-12-02,Content,TRUE,Discount,FALSE,Churned
+HH-0043102,2025-07-14,Content,TRUE,Free month,FALSE,Churned
+HH-0043111,2026-07-02,Price,TRUE,Discount,FALSE,Churned
+HH-0043116,2026-05-06,Content,TRUE,Free month,TRUE,Returned later
+HH-0043117,2026-02-03,Price,FALSE,None,,Churned
+HH-0043120,2025-08-09,Content,TRUE,Discount,FALSE,Churned
+HH-0043143,2026-05-29,Price,TRUE,Discount,TRUE,Retained
+HH-0043148,2025-07-09,Content,TRUE,Discount,TRUE,Retained
+HH-0043149,2026-08-01,No reason given,TRUE,Discount,FALSE,Churned
+HH-0043153,2026-06-02,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043166,2025-04-08,Content,TRUE,Discount,TRUE,Returned later
+HH-0043172,2026-08-04,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043175,2026-04-10,No reason given,TRUE,Free month,TRUE,Retained
+HH-0043178,2026-06-13,Content,FALSE,None,,Churned
+HH-0043183,2025-12-28,No reason given,FALSE,None,,Returned later
+HH-0043199,2026-04-21, Price ,TRUE,Free month,TRUE,Returned later
+HH-0043204,2026-07-29,Price,TRUE,Free month,FALSE,Returned later
+HH-0043209,2026-08-14,Price,TRUE,Discount,FALSE,Returned later
+HH-0043210,2026-08-03,No reason given,FALSE,None,,Returned later
+HH-0043211,2026-04-26,Content,TRUE,Free month,TRUE,Retained
+HH-0043214,2026-06-16,Price,TRUE,Free month,FALSE,Returned later
+HH-0043225,2026-05-06,No reason given,FALSE,None,,Returned later
+HH-0043227,2026-07-26,Technical issue,FALSE,None,,Returned later
+HH-0043232,2025-02-26,No reason given,FALSE,None,,Churned
+HH-0043242,2026-05-17,No reason given,FALSE,None,,Churned
+HH-0043248,2025-09-16,Price,TRUE,Free month,FALSE,Churned
+HH-0043253,2025-11-05,Content,FALSE,None,,Churned
+HH-0043255,2026-05-10,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043256,2025-08-06,Price,TRUE,Discount,TRUE,Retained
+HH-0043258,2025-10-20,Content,TRUE,Discount,TRUE,Retained
+HH-0043260,2026-03-18,No reason given,TRUE,Discount,FALSE,Churned
+HH-0043272,2025-01-17,Price,FALSE,None,,Churned
+HH-0043278,2026-03-02,Price,TRUE,Discount,FALSE,Churned
+HH-0043279,2025-09-30,Price,TRUE,Discount,FALSE,Churned
+HH-0043281,2026-05-12,Content,TRUE,Free month,TRUE,Retained
+HH-0043282,2026-08-10,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043283,2026-07-01,Price,FALSE,None,,Churned
+HH-0043284,2026-07-10,No reason given,TRUE,Free month,FALSE,Churned
+HH-0043289,2026-08-14,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043293,2025-04-04,Price,TRUE,Free month,FALSE,Churned
+HH-0043305,2025-03-22,No reason given,TRUE,Discount,TRUE,Retained
+HH-0043307,2025-11-27,Price,FALSE,None,,Churned
+HH-0043309,2025-11-08,No reason given,TRUE,Free month,FALSE,Churned
+HH-0043312,2026-08-14,Price,TRUE,Discount,FALSE,Returned later
+HH-0043313,2026-06-04,Content,TRUE,Discount,FALSE,Returned later
+HH-0043331,2026-04-16,Content,TRUE,Discount,TRUE,Retained
+HH-0043334,2025-04-21,Technical issue,TRUE,Discount,FALSE,Returned later
+HH-0043339,2024-10-30,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043340,2026-02-15,Content,FALSE,None,,Churned
+HH-0043347,2025-06-17,Price,FALSE,None,,Churned
+HH-0043349,2026-04-16,Price,FALSE,None,,Churned
+HH-0043352,2026-05-05,Price,TRUE,Free month,TRUE,Returned later
+HH-0043357,2025-05-18,Price,FALSE,None,,Returned later
+HH-0043359,2026-04-14,Technical issue,TRUE,Free month,FALSE,Returned later
+HH-0043364,2026-06-21,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0043365,2024-06-16,Price,FALSE,None,,Churned
+HH-0043380,2025-09-03,No reason given,FALSE,None,,Churned
+HH-0043393,2025-12-26,No reason given,FALSE,None,,Churned
+HH-0043397,2026-03-10,Content,TRUE,Discount,TRUE,Retained
+HH-0043399,2025-08-23,Price,FALSE,None,,Churned
+HH-0043411,2026-06-11,Price,FALSE,None,,Churned
+HH-0043412,2026-07-27,Price,FALSE,None,,Churned
+HH-0043415,2026-01-03,Technical issue,FALSE,None,,Churned
+HH-0043418,2025-09-12,Content,TRUE,Discount,FALSE,Churned
+HH-0043419,2025-03-01,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043421,2025-12-02,Price,FALSE,None,,Churned
+HH-0043422,2026-04-02,Price,TRUE,Discount,TRUE,Retained
+HH-0043428,2024-04-27,No reason given,TRUE,Discount,TRUE,Returned later
+HH-0043430,2026-02-06,Price,FALSE,None,,Churned
+HH-0043431,2026-07-19,Price,TRUE,Free month,TRUE,Retained
+HH-0043433,2024-11-04,Content,TRUE,Free month,FALSE,Churned
+HH-0043434,2025-09-13,Price,TRUE,Discount,TRUE,Retained
+HH-0043437,2025-09-06,Content,FALSE,None,,Churned
+HH-0043441,2025-11-25,Price,FALSE,None,,Churned
+HH-0043442,2026-08-04,Content,TRUE,Free month,FALSE,Churned
+HH-0043453,2026-07-18,Content,TRUE,Free month,FALSE,Churned
+HH-0043463,2026-03-30,No reason given,TRUE,Free month,FALSE,Returned later
+HH-0043470,2024-11-14,Content,FALSE,None,,Churned
+HH-0043471,2026-06-30,Price,TRUE,Free month,TRUE,Retained
+HH-0043478,2026-07-22,Price,TRUE,Discount,TRUE,Retained
+HH-0043479,2026-08-16,Content,FALSE,None,,Churned
+HH-0043480,2025-12-25,Technical issue,TRUE,Free month,TRUE,Returned later
+HH-0043481,2026-07-18,Content,TRUE,Discount,FALSE,Churned
+HH-0043485,2026-07-03, Content ,TRUE,Discount,FALSE,Churned
+HH-0043492,2026-04-28,Price,TRUE,Free month,FALSE,Churned
+HH-0043496,2025-11-19,Price,TRUE,Discount,FALSE,Churned
+HH-0043515,2025-06-25,Price,FALSE,None,,Returned later
+HH-0043516,2025-10-31,Content,TRUE,Free month,TRUE,Retained
+HH-0043518,2023-11-20,Content,FALSE,None,,Churned
+HH-0043521,2025-06-25,Content,TRUE,Free month,TRUE,Retained
+HH-0043531,2025-08-05,Price,TRUE,Discount,TRUE,Retained
+HH-0043532,2026-08-07,No reason given,TRUE,Discount,FALSE,Churned
+HH-0043533,2026-06-17,Technical issue,FALSE,None,,Returned later
+HH-0043535,2024-06-08,Content,TRUE,Free month,FALSE,Returned later
+HH-0043539,2026-07-22,Price,TRUE,Discount,FALSE,Churned
+HH-0043541,2026-07-06,Content,FALSE,None,,Churned
+HH-0043542,2025-06-27,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043547,2026-08-19,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043565,2025-10-03,Technical issue,FALSE,None,,Churned
+HH-0043575,2026-01-16,Content,TRUE,Discount,FALSE,Churned
+HH-0043577,2026-08-25,PRICE,FALSE,None,,Churned
+HH-0043584,2024-09-06,Price,FALSE,None,,Churned
+HH-0043587,2026-08-19,No reason given,TRUE,Free month,FALSE,Returned later
+HH-0043595,2025-08-09,Price,FALSE,None,,Churned
+HH-0043602,2026-07-24,Price,TRUE,Free month,FALSE,Churned
+HH-0043607,2025-11-12,Content,FALSE,None,,Churned
+HH-0043610,2026-06-25,Content,FALSE,None,,Churned
+HH-0043611,2026-08-20,No reason given,FALSE,None,,Churned
+HH-0043612,2025-02-06,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0043625,2025-12-18,Price,FALSE,None,,Churned
+HH-0043626,2025-09-25,Price,TRUE,Discount,TRUE,Retained
+HH-0043627,2025-12-03,Content,TRUE,Free month,TRUE,Retained
+HH-0043636,2026-02-24,Content,FALSE,None,,Churned
+HH-0043637,2026-04-04,Technical issue,FALSE,None,,Churned
+HH-0043644,2026-07-09,No reason given,FALSE,None,,Returned later
+HH-0043646,2025-10-13,Price,TRUE,Discount,TRUE,Retained
+HH-0043649,2025-10-11,Content,TRUE,Free month,TRUE,Retained
+HH-0043650,2026-02-03,Price,FALSE,None,,Churned
+HH-0043653,2026-07-06,No reason given,FALSE,None,,Churned
+HH-0043654,2025-02-26,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0043656,2026-06-04,Technical issue,TRUE,Discount,TRUE,Retained
+HH-0043657,2025-09-17,Content,TRUE,Free month,FALSE,Churned
+HH-0043658,2024-10-08,Technical issue,FALSE,None,,Churned
+HH-0043659,2026-02-14,Price,FALSE,None,,Churned
+HH-0043660,2026-07-23,Technical issue,TRUE,Discount,FALSE,Returned later
+HH-0043664,2025-11-17,No reason given,FALSE,None,,Churned
+HH-0043672,2026-03-03,Price,FALSE,None,,Churned
+HH-0043695,2026-05-05,Content,TRUE,Free month,TRUE,Retained
+HH-0043699,2026-08-24,Price,FALSE,None,,Churned
+HH-0043706,2026-05-14,Content,FALSE,None,,Churned
+HH-0043707,2025-02-15,Price,TRUE,Free month,FALSE,Churned
+HH-0043719,2026-02-21,Content,FALSE,None,,Churned
+HH-0043722,2025-10-03,Price,FALSE,None,,Churned
+HH-0043732,2026-07-09,Price,FALSE,None,,Churned
+HH-0043734,2025-09-22,No reason given,FALSE,None,,Churned
+HH-0043735,2026-01-29,Price,TRUE,Free month,TRUE,Retained
+HH-0043741,2026-06-13,Price,TRUE,Free month,TRUE,Retained
+HH-0043749,2026-08-18,No reason given,TRUE,Discount,FALSE,Churned
+HH-0043750,2026-05-01,No reason given,FALSE,None,,Churned
+HH-0043754,2025-06-22,Technical issue,TRUE,Free month,TRUE,Returned later
+HH-0043755,2026-06-08,Content,TRUE,Discount,TRUE,Retained
+HH-0043756,2025-01-06,Price,FALSE,None,,Churned
+HH-0043758,2024-12-18,No reason given,TRUE,Discount,FALSE,Churned
+HH-0043761,2024-08-26,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043763,2026-07-25,Price,FALSE,None,,Churned
+HH-0043771,2025-04-28,Content,FALSE,None,,Churned
+HH-0043775,2026-08-05,Technical issue,TRUE,Free month,FALSE,Returned later
+HH-0043782,2026-07-18,Content,TRUE,Discount,FALSE,Churned
+HH-0043783,2026-08-04,Price,TRUE,Free month,TRUE,Returned later
+HH-0043787,2025-12-19,Content,TRUE,Discount,FALSE,Churned
+HH-0043788,2025-12-17,Content,FALSE,None,,Returned later
+HH-0043789,2026-04-06,No reason given,FALSE,None,,Churned
+HH-0043790,2026-07-22,No reason given,TRUE,Discount,FALSE,Churned
+HH-0043794,2025-09-13,Price,TRUE,Discount,TRUE,Retained
+HH-0043801,2025-06-11,No reason given,TRUE,Discount,FALSE,Churned
+HH-0043805,2025-06-13,Content,TRUE,Discount,FALSE,Churned
+HH-0043815,2026-02-01,Price,TRUE,Free month,FALSE,Churned
+HH-0043819,2026-07-13,Price,FALSE,None,,Churned
+HH-0043822,2026-07-27,Technical issue,FALSE,None,,Churned
+HH-0043827,2025-08-26,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043833,2026-05-05,Price,FALSE,None,,Churned
+HH-0043839,2025-11-27,Content,TRUE,Free month,FALSE,Churned
+HH-0043842,2023-11-26,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0043857,2025-07-01,Content,TRUE,Free month,FALSE,Churned
+HH-0043872,2025-07-12,Content,FALSE,None,,Churned
+HH-0043875,2025-01-10,Content,TRUE,Free month,FALSE,Returned later
+HH-0043880,2026-05-17,Technical issue,FALSE,None,,Churned
+HH-0043883,2026-05-28,Price,TRUE,Free month,FALSE,Churned
+HH-0043884,2026-07-19,Price,TRUE,Free month,FALSE,Returned later
+HH-0043885,2025-06-19,Price,TRUE,Discount,TRUE,Retained
+HH-0043888,2026-08-19,Price,FALSE,None,,Churned
+HH-0043890,2025-03-02,Price,TRUE,Discount,TRUE,Retained
+HH-0043891,2025-07-15,Content,TRUE,Free month,TRUE,Retained
+HH-0043893,2026-05-30,Price,TRUE,Free month,FALSE,Churned
+HH-0043894,2026-08-11,Price,TRUE,Discount,FALSE,Churned
+HH-0043901,2026-02-23,Price,FALSE,None,,Churned
+HH-0043902,2026-02-26,Content,TRUE,Discount,FALSE,Churned
+HH-0043906,2025-05-10,Content,TRUE,Discount,TRUE,Returned later
+HH-0043910,2025-12-31,Price,TRUE,Discount,FALSE,Churned
+HH-0043919,2026-06-29,Technical issue,TRUE,Free month,TRUE,Returned later
+HH-0043922,2026-05-30,Price,TRUE,Free month,FALSE,Returned later
+HH-0043926,2025-07-17,Content,FALSE,None,,Churned
+HH-0043927,2026-04-11,Content,FALSE,None,,Churned
+HH-0043929,2025-10-25,Content,TRUE,Discount,FALSE,Churned
+HH-0043939,2026-06-23,Content,TRUE,Free month,FALSE,Churned
+HH-0043940,2026-06-30,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043943,2026-07-08,Price,FALSE,None,,Churned
+HH-0043944,2026-01-09,Price,FALSE,None,,Churned
+HH-0043947,2025-11-04,No reason given,TRUE,Discount,FALSE,Churned
+HH-0043951,2025-04-12,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0043954,2024-07-01,Content,FALSE,None,,Churned
+HH-0043960,2026-04-19,Technical issue,FALSE,None,,Churned
+HH-0043961,2025-12-26,Price,FALSE,None,,Returned later
+HH-0043962,2026-03-21,Content,TRUE,Discount,FALSE,Churned
+HH-0043969,2025-05-19,Price,TRUE,Discount,TRUE,Retained
+HH-0043973,2025-06-02,Content,TRUE,Free month,TRUE,Retained
+HH-0043974,2025-03-05,Content,FALSE,None,,Churned
+HH-0043975,2026-04-04,Content,FALSE,None,,Churned
+HH-0043979,2026-04-30,Content,FALSE,None,,Churned
+HH-0043987,2024-09-22,Technical issue,TRUE,Discount,FALSE,Returned later
+HH-0043995,2026-04-30,Price,TRUE,Free month,TRUE,Retained
+HH-0043998,2026-05-18,PRICE,TRUE,Free month,TRUE,Retained
+HH-0044001,2026-08-11,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0044006,2026-01-14,Content,FALSE,None,,Churned
+HH-0044016,2026-05-25,No reason given,FALSE,None,,Churned
+HH-0044017,2026-02-21,No reason given,TRUE,Discount,TRUE,Retained
+HH-0044019,2026-05-24,Price,TRUE,Free month,FALSE,Returned later
+HH-0044023,2026-07-24,Price,TRUE,Discount,FALSE,Churned
+HH-0044034,2026-08-02,No reason given,FALSE,None,,Churned
+HH-0044044,2026-06-25,Content,TRUE,Free month,TRUE,Retained
+HH-0044053,2026-04-12,Technical issue,TRUE,Free month,TRUE,Retained
+HH-0044055,2026-02-08,Content,TRUE,Free month,TRUE,Returned later
+HH-0044060,2026-04-19,Price,FALSE,None,,Churned
+HH-0044061,2026-06-05,No reason given,FALSE,None,,Churned
+HH-0044062,2025-02-08,Content,TRUE,Discount,FALSE,Returned later
+HH-0044064,2026-08-01,Price,FALSE,None,,Churned
+HH-0044066,2026-05-24,Price,FALSE,None,,Churned
+HH-0044070,2026-04-12,No reason given,TRUE,Free month,TRUE,Retained
+HH-0044071,2026-01-21,Content,FALSE,None,,Churned
+HH-0044077,2026-02-12,Price,FALSE,None,,Churned
+HH-0044078,2024-12-05,content,TRUE,Free month,FALSE,Churned
+HH-0044085,2026-08-13,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0044086,2026-05-18,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0044090,2024-08-21,Price,TRUE,Discount,FALSE,Churned
+HH-0044091,2026-07-05,Content,FALSE,None,,Churned
+HH-0044093,2026-06-18,Price,TRUE,Discount,TRUE,Returned later
+HH-0044105,2025-03-26,Price,TRUE,Discount,FALSE,Churned
+HH-0044108,2026-02-28,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0044109,2026-04-07,Technical issue,FALSE,None,,Churned
+HH-0044111,2025-02-10,Price,TRUE,Discount,TRUE,Retained
+HH-0044114,2026-06-17,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0044115,2025-12-24,Price,TRUE,Discount,FALSE,Churned
+HH-0044125,2026-03-16,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0044131,2025-11-08,Content,TRUE,Discount,TRUE,Retained
+HH-0044132,2024-08-07,Content,FALSE,None,,Churned
+HH-0044133,2026-06-22,No reason given,TRUE,Discount,TRUE,Retained
+HH-0044137,2026-08-21,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0044146,2026-08-16,Price,TRUE,Free month,FALSE,Returned later
+HH-0044149,2026-07-18,Technical issue,FALSE,None,,Churned
+HH-0044161,2025-04-19,No reason given,FALSE,None,,Churned
+HH-0044167,2026-04-05,Price,TRUE,Discount,TRUE,Retained
+HH-0044168,2025-10-18,Price,TRUE,Discount,FALSE,Churned
+HH-0044169,2025-05-31,Technical issue,FALSE,None,,Churned
+HH-0044181,2026-07-18,Price,TRUE,Free month,FALSE,Churned
+HH-0044183,2026-05-08,Price,TRUE,Discount,TRUE,Retained
+HH-0044188,2026-07-24,Content,TRUE,Free month,FALSE,Churned
+HH-0044190,2025-02-13,No reason given,TRUE,Discount,FALSE,Returned later
+HH-0044193,2026-07-25,Price,TRUE,Free month,FALSE,Churned
+HH-0044195,2026-05-04,Content,FALSE,None,,Churned
+HH-0044197,2026-04-15,Price,TRUE,Discount,TRUE,Returned later
+HH-0044199,2026-06-04,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0044204,2026-01-28,Price,TRUE,Discount,TRUE,Returned later
+HH-0044206,2026-07-30,Price,FALSE,None,,Churned
+HH-0044208,2026-01-08,Content,FALSE,None,,Churned
+HH-0044212,2025-02-17,Price,TRUE,Free month,FALSE,Churned
+HH-0044213,2026-01-11,Price,TRUE,Discount,FALSE,Churned
+HH-0044217,2026-04-23,Price,FALSE,None,,Churned
+HH-0044221,2026-06-05,Content,FALSE,None,,Churned
+HH-0044223,2026-04-05,Content,FALSE,None,,Returned later
+HH-0044230,2025-08-25,Price,TRUE,Free month,FALSE,Churned
+HH-0044231,2026-03-17,Price,TRUE,Discount,TRUE,Returned later
+HH-0044235,2025-08-30,Content,FALSE,None,,Churned
+HH-0044238,2026-08-03,Price,TRUE,Discount,TRUE,Returned later
+HH-0044239,2026-06-26,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0044243,2024-02-03,Price,TRUE,Discount,FALSE,Churned
+HH-0044248,2026-07-18,No reason given,TRUE,Discount,FALSE,Churned
+HH-0044250,2025-11-11,No reason given,TRUE,Discount,FALSE,Churned
+HH-0044254,2026-03-12,Content,TRUE,Free month,FALSE,Churned
+HH-0044260,2025-08-11,Content,TRUE,Discount,FALSE,Churned
+HH-0044263,2023-09-07,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0044264,2026-03-10,Price,TRUE,Free month,FALSE,Churned
+HH-0044266,2026-04-11,Content,TRUE,Free month,FALSE,Churned
+HH-0044278,2025-08-14,Content,FALSE,None,,Churned
+HH-0044279,2026-02-07,Content,FALSE,None,,Churned
+HH-0044293,2026-03-17,Content,TRUE,Discount,TRUE,Retained
+HH-0044297,2024-04-04,Content,TRUE,Discount,FALSE,Churned
+HH-0044302,2026-07-13,No reason given,TRUE,Discount,FALSE,Churned
+HH-0044303,2025-09-18,Content,TRUE,Free month,TRUE,Retained
+HH-0044304,2025-12-31,Price,TRUE,Discount,FALSE,Churned
+HH-0044305,2026-03-09,Price,FALSE,None,,Churned
+HH-0044307,2025-11-16,Technical issue,TRUE,Discount,FALSE,Churned
+HH-0044313,2025-10-03,Technical issue,FALSE,None,,Churned
+HH-0044316,2026-07-19,No reason given,FALSE,None,,Churned
+HH-0044318,2026-04-23,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0044329,2025-07-14,Content,FALSE,None,,Churned
+HH-0044332,2026-04-15,Content,TRUE,Discount,FALSE,Churned
+HH-0044333,2025-06-10,Technical issue,FALSE,None,,Returned later
+HH-0044336,2026-06-09,Price,FALSE,None,,Churned
+HH-0044346,2026-07-04,Content,FALSE,None,,Churned
+HH-0044351,2026-03-08,Content,TRUE,Discount,FALSE,Churned
+HH-0044356,2026-04-04,Technical issue,TRUE,Free month,TRUE,Returned later
+HH-0044358,2026-04-04,Content,FALSE,None,,Churned
+HH-0044361,2026-04-14,Price,TRUE,Free month,FALSE,Churned
+HH-0044362,2025-03-05,Price,FALSE,None,,Churned
+HH-0044365,2025-10-16,Price,TRUE,Discount,TRUE,Retained
+HH-0044366,2026-06-07,Price,FALSE,None,,Churned
+HH-0044371,2025-02-19,Technical issue,FALSE,None,,Churned
+HH-0044376,2024-10-24,No reason given,TRUE,Discount,FALSE,Churned
+HH-0044378,2026-03-25,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0044380,2025-10-07,Content,FALSE,None,,Churned
+HH-0044383,2026-02-05,Content,TRUE,Free month,FALSE,Churned
+HH-0044384,2025-07-03,Content,TRUE,Discount,TRUE,Returned later
+HH-0044388,2025-08-09,price,TRUE,Free month,TRUE,Retained
+HH-0044390,2025-04-07,Price,FALSE,None,,Churned
+HH-0044392,2025-02-12,Price,TRUE,Discount,FALSE,Churned
+HH-0044398,2026-07-09,Content,FALSE,None,,Churned
+HH-0044400,2025-11-01,Price,FALSE,None,,Returned later
+HH-0044404,2026-05-23,Content,FALSE,None,,Churned
+HH-0044405,2026-08-05,Price,TRUE,Free month,FALSE,Churned
+HH-0044412,2025-08-15,Price,TRUE,Discount,TRUE,Returned later
+HH-0044415,2026-07-28,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0044419,2026-08-15,No reason given,TRUE,Discount,FALSE,Churned
+HH-0044437,2026-08-24,Content,FALSE,None,,Churned
+HH-0044440,2025-12-02,Technical issue,TRUE,Free month,FALSE,Churned
+HH-0044446,2024-05-15,Technical issue,FALSE,None,,Churned
+HH-0044448,2026-05-27,Content,FALSE,None,,Churned
+HH-0044453,2026-03-05,No reason given,FALSE,None,,Returned later
+HH-0044454,2026-02-28,Price,TRUE,Discount,FALSE,Churned
+HH-0044458,2026-05-18,Content,TRUE,Discount,FALSE,Churned
+HH-0044459,2026-05-17,Content,TRUE,Discount,FALSE,Churned
+HH-0044461,2026-07-01,Price,FALSE,None,,Churned
+HH-0044464,2026-01-17,No reason given,TRUE,Free month,FALSE,Returned later
+HH-0044465,2026-03-07,Price,TRUE,Discount,TRUE,Retained
+HH-0044466,2026-03-06,Price,TRUE,Discount,FALSE,Churned
+HH-0044470,2026-05-03,Content,TRUE,Free month,FALSE,Returned later
+HH-0044471,2025-08-21,Technical issue,FALSE,None,,Churned

@@ -1,0 +1,641 @@
+title_id,title_name,genre,is_sports_content,licensing_window_start,licensing_window_end
+TTL-1000,Quiet Verdict,Reality,FALSE,2021-07-01,2022-07-01
+TTL-1001,Northern Karoo,Local Drama,FALSE,2022-04-17,2025-04-16
+TTL-1002,Iron Republic,Kids,FALSE,2024-03-20,2026-03-20
+TTL-1003,Quiet Hour Uncovered,Action,FALSE,2022-09-21,2025-09-20
+TTL-1004,Iron Republic 2,Kids,FALSE,2021-01-24,2024-01-24
+TTL-1005,Bitter Storm Returns,Comedy,FALSE,2024-08-17,2027-08-17
+TTL-1006,Crooked Storm,Drama,FALSE,2023-02-08,2028-02-07
+TTL-1007,Crooked Highveld Returns,Horror,FALSE,2025-04-08,2030-04-07
+TTL-1008,Last Hour II,Romance,FALSE,2022-07-17,2023-07-17
+TTL-1009,Crooked Season,Reality,FALSE,2021-08-12,2023-08-12
+TTL-1010,Broken Rift Uncovered,Reality,FALSE,2022-09-05,2025-09-04
+TTL-1011,Last Harbour,Local Drama,FALSE,2021-07-03,2022-07-03
+TTL-1012,T20 Challenge 2024,Sport,TRUE,2022-02-01,2023-02-01
+TTL-1013,Last Mountain Chronicles,Local Drama,FALSE,2024-05-20,2029-05-19
+TTL-1014,Distant Current,Drama,FALSE,2023-02-13,2026-02-12
+TTL-1015,Champions League 2023,Sport,TRUE,2021-12-19,2024-12-18
+TTL-1016,Silent Current III,Comedy,FALSE,2025-03-11,2028-03-10
+TTL-1017,Last Kingdom Chronicles,Kids,FALSE,2023-11-20,2026-11-19
+TTL-1018,Quiet Current II,Comedy,FALSE,2024-01-08,2027-01-07
+TTL-1019,Rising Anchor Returns,Action,FALSE,2024-12-14,2027-12-14
+TTL-1020,Wild Signal II,Reality,FALSE,2025-10-04,2030-10-03
+TTL-1021,Wild Promise III,Action,FALSE,2025-06-09,2030-06-08
+TTL-1022,Wild Crossing,Horror,FALSE,2024-09-08,2029-09-07
+TTL-1023,Golden Beacon Chronicles,Drama,FALSE,2023-12-23,2026-12-22
+TTL-1024,Bitter Reckoning,Documentary,FALSE,2021-11-19,2023-11-19
+TTL-1025,Red Season Chronicles,Kids,FALSE,2021-10-08,2026-10-07
+TTL-1026,Rising Storm Uncovered,Comedy,FALSE,2024-11-17,2026-11-17
+TTL-1027,Hidden Reckoning Origins,Comedy,FALSE,2022-04-16,2025-04-15
+TTL-1028,Red Signal,Crime,FALSE,2021-01-05,2024-01-05
+TTL-1029,Iron Verdict Returns,Documentary,FALSE,2025-05-27,2026-05-27
+TTL-1030,Long Harvest Uncovered,Comedy,FALSE,2024-10-08,2027-10-08
+TTL-1031,A Frontier Files,Drama,FALSE,2022-08-02,2023-08-02
+TTL-1032,Second Signal II,Thriller,FALSE,2025-11-05,2030-11-04
+TTL-1033,Rising Hour Origins,Documentary,FALSE,2025-10-25,2030-10-24
+TTL-1034,Netball World Cup 2023,Sport,TRUE,2022-02-25,2024-02-25
+TTL-1035,Second Anchor III,Thriller,FALSE,2022-10-10,2023-10-10
+TTL-1036,Iron Shadow Uncovered,Drama,FALSE,2023-04-16,2024-04-15
+TTL-1037,Last Current III,Kids,FALSE,2024-04-17,2027-04-17
+TTL-1038,Burning Kingdom III,Crime,FALSE,2023-10-01,2028-09-29
+TTL-1039,Burning Mountain Uncovered,Thriller,FALSE,2023-03-17,2026-03-16
+TTL-1040,Crooked Crossing III,Local Drama,FALSE,2024-09-05,2025-09-05
+TTL-1041,Silent Coast,Crime,FALSE,2024-08-09,2027-08-09
+TTL-1042,The Harbour Returns,Comedy,FALSE,2023-04-11,2024-04-10
+TTL-1043,Rising Compass Uncovered,Drama,FALSE,2022-02-18,2023-02-18
+TTL-1044,The Current Chronicles,Action,FALSE,2025-08-01,2028-07-31
+TTL-1045,A Season II,Drama,FALSE,2021-02-14,2026-02-13
+TTL-1046,Distant Current III,Local Drama,FALSE,2022-04-02,2024-04-01
+TTL-1047,Last Shadow Files,Music,FALSE,2025-10-14,2028-10-13
+TTL-1048,Wild Coast II,Crime,FALSE,2025-12-14,2028-12-13
+TTL-1049,Iron Mountain,Sci-Fi,FALSE,2022-01-01,2026-12-31
+TTL-1050,Crooked Hour,Reality,FALSE,2023-08-08,2026-08-07
+TTL-1051,Distant Crossing Chronicles,Drama,FALSE,2023-01-17,2026-01-16
+TTL-1052,Long Karoo Files,Local Drama,FALSE,2025-03-21,2028-03-20
+TTL-1053,Second Ridge Chronicles,Action,FALSE,2024-01-10,2026-01-09
+TTL-1054,Silent Frontier Files,Kids,FALSE,2022-02-07,2023-02-07
+TTL-1055,Bitter Divide,Drama,FALSE,2025-02-07,2026-02-07
+TTL-1056,Rising Reckoning,Comedy,FALSE,2025-01-21,2028-01-21
+TTL-1057,A Crossing Uncovered,Crime,FALSE,2022-11-24,2024-11-23
+TTL-1058,Quiet Ridge II,Comedy,FALSE,2024-02-25,2027-02-24
+TTL-1059,Cricket World Cup 2026,Sport,TRUE,2025-10-27,2026-10-27
+TTL-1060,Burning Archive Uncovered,Thriller,FALSE,2022-05-21,2024-05-20
+TTL-1061,Long Archive Origins,Action,FALSE,2024-12-14,2025-12-14
+TTL-1062,Bitter Karoo Uncovered,Crime,FALSE,2021-08-05,2026-08-04
+TTL-1063,Wild Karoo Uncovered,Drama,FALSE,2023-12-07,2026-12-06
+TTL-1064,Northern Crossing Origins,Documentary,FALSE,2022-11-18,2025-11-17
+TTL-1065,Red Current II,News,FALSE,2022-05-15,2025-05-14
+TTL-1066,Hidden Compass,Comedy,FALSE,2024-05-04,2026-05-04
+TTL-1067,Cricket World Cup,Sport,TRUE,2024-03-07,2027-03-07
+TTL-1068,Golf Open Championship,Sport,TRUE,2022-08-13,2023-08-13
+TTL-1069,Golden Crossing Origins,Drama,FALSE,2023-09-21,2025-09-20
+TTL-1070,Long Signal III,Sci-Fi,FALSE,2021-07-14,2022-07-14
+TTL-1071,Midnight Signal Chronicles,Action,FALSE,2021-04-18,2023-04-18
+TTL-1072,Burning Frontier Origins,Drama,FALSE,2022-11-23,2027-11-22
+TTL-1073,Distant Mountain Files,Local Drama,FALSE,2025-09-09,2028-09-08
+TTL-1074,Iron Karoo,Thriller,FALSE,2022-06-07,2025-06-06
+TTL-1075,Bitter Signal Chronicles,Thriller,FALSE,2022-03-04,2027-03-03
+TTL-1076,Netball World Cup 2026,Sport,TRUE,2024-08-21,2027-08-21
+TTL-1077,Broken Mountain II,Drama,FALSE,2023-07-07,2028-07-05
+TTL-1078,Northern Circuit,Kids,FALSE,2023-05-21,2026-05-20
+TTL-1079,Golden Mountain Uncovered,Thriller,FALSE,2024-08-14,2025-08-14
+TTL-1080,Midnight Republic,News,FALSE,2021-02-05,2022-02-05
+TTL-1081,A Hour II,Drama,FALSE,2025-02-08,2030-02-07
+TTL-1082,Red Harbour Chronicles,Drama,FALSE,2023-07-02,2024-07-01
+TTL-1083,Distant Harbour,Kids,FALSE,2024-04-02,2029-04-01
+TTL-1084,The Township III,Drama,FALSE,2023-12-19,2026-12-18
+TTL-1085,Bitter Season III,Reality,FALSE,2021-10-07,2022-10-07
+TTL-1086,The Compass,Horror,FALSE,2023-09-25,2026-09-24
+TTL-1087,Midnight Harvest Uncovered,Kids,FALSE,2022-11-17,2023-11-17
+TTL-1088,Second Season Chronicles,Local Drama,FALSE,2021-11-10,2023-11-10
+TTL-1089,Golden Harbour II,Reality,FALSE,2021-06-25,2022-06-25
+TTL-1090,Currie Cup 2025,Sport,TRUE,2024-09-17,2025-09-17
+TTL-1091,Golden Karoo III,Comedy,FALSE,2025-05-11,2028-05-10
+TTL-1092,Distant Harbour II,Drama,FALSE,2021-07-09,2026-07-08
+TTL-1093,Quiet Verdict 2,Comedy,FALSE,2024-07-09,2029-07-08
+TTL-1094,The Rift Uncovered,Documentary,FALSE,2021-06-06,2023-06-06
+TTL-1095,Midnight Current Origins,Local Drama,FALSE,2025-01-06,2027-01-06
+TTL-1096,Red Verdict Origins,Crime,FALSE,2025-02-09,2027-02-09
+TTL-1097,A Harvest Files,Documentary,FALSE,2023-12-12,2024-12-11
+TTL-1098,Midnight Beacon Files,Horror,FALSE,2025-11-12,2028-11-11
+TTL-1099,Bitter Crossing Chronicles,Comedy,FALSE,2022-04-03,2027-04-02
+TTL-1100,Last Storm Returns,Comedy,FALSE,2024-09-07,2025-09-07
+TTL-1101,Broken Current,Action,FALSE,2021-02-24,2023-02-24
+TTL-1102,Golf Open Championship 2023,Sport,TRUE,2025-12-11,2026-12-11
+TTL-1103,The Current,Local Drama,FALSE,2023-12-14,2024-12-13
+TTL-1104,Second Rift,Local Drama,FALSE,2023-08-12,2024-08-11
+TTL-1105,Broken Republic Origins,Thriller,FALSE,2024-03-04,2027-03-04
+TTL-1106,The Crossing Chronicles,Thriller,FALSE,2022-05-09,2023-05-09
+TTL-1107,Quiet Rift,Comedy,FALSE,2023-10-16,2026-10-15
+TTL-1108,Comrades Marathon,Sport,TRUE,2022-05-04,2025-05-03
+TTL-1109,Red Divide,Thriller,FALSE,2023-04-18,2028-04-16
+TTL-1110,Midnight Reckoning Files,Action,FALSE,2025-04-26,2028-04-25
+TTL-1111,A Promise II,Local Drama,FALSE,2023-07-18,2024-07-17
+TTL-1112,Midnight Circuit Files,Romance,FALSE,2021-01-24,2026-01-23
+TTL-1113,Broken Season III,Lifestyle,FALSE,2025-05-10,2027-05-10
+TTL-1114,Premier League Live,Sport,TRUE,2025-08-17,2028-08-16
+TTL-1115,A Divide Files,Comedy,FALSE,2022-01-05,2027-01-04
+TTL-1116,Silent Highveld Origins,Comedy,FALSE,2025-11-06,2026-11-06
+TTL-1117,PSL Highlights,Sport,TRUE,2023-02-15,2028-02-14
+TTL-1118,Hidden Promise II,Action,FALSE,2025-02-16,2026-02-16
+TTL-1119,Crooked Frontier,Comedy,FALSE,2025-06-20,2027-06-20
+TTL-1120,Long Ridge Chronicles,Lifestyle,FALSE,2025-10-17,2026-10-17
+TTL-1121,Quiet Archive Chronicles,Reality,FALSE,2022-01-05,2027-01-04
+TTL-1122,Broken Reckoning,Romance,FALSE,2021-08-11,2024-08-10
+TTL-1123,The Anchor II,Reality,FALSE,2021-08-08,2023-08-08
+TTL-1124,Burning Season Files,Drama,FALSE,2024-08-13,2027-08-13
+TTL-1125,Last Coast II,Romance,FALSE,2021-12-03,2024-12-02
+TTL-1126,Hidden Reckoning II,Kids,FALSE,2024-02-12,2029-02-10
+TTL-1127,Golden Promise,Reality,FALSE,2022-06-27,2027-06-26
+TTL-1128,Formula One Grand Prix,Sport,TRUE,2022-10-13,2023-10-13
+TTL-1129,Broken Verdict Files,Action,FALSE,2023-04-04,2024-04-03
+TTL-1130,Rugby Championship 2024,Sport,TRUE,2025-10-07,2030-10-06
+TTL-1131,Iron Mountain Chronicles,Crime,FALSE,2021-08-22,2022-08-22
+TTL-1132,Broken Ridge Files,Crime,FALSE,2021-05-10,2026-05-09
+TTL-1133,Burning Coast Origins,Comedy,FALSE,2022-05-20,2027-05-19
+TTL-1134,Northern Divide,Action,FALSE,2022-07-01,2027-06-30
+TTL-1135,Wild Shadow Returns,Drama,FALSE,2021-03-18,2022-03-18
+TTL-1136,Quiet Circuit Files,Thriller,FALSE,2021-06-19,2026-06-18
+TTL-1137,Iron Promise Files,Documentary,FALSE,2024-12-04,2027-12-04
+TTL-1138,Rising Frontier Returns,Reality,FALSE,2023-05-12,2025-05-11
+TTL-1139,Distant Beacon Returns,Drama,FALSE,2022-03-10,2024-03-09
+TTL-1140,Crooked Season Origins,Comedy,FALSE,2024-06-22,2026-06-22
+TTL-1141,A Signal Uncovered,Music,FALSE,2025-09-14,2027-09-14
+TTL-1142,Red Shadow Uncovered,Action,FALSE,2024-12-07,2029-12-06
+TTL-1143,Last Frontier Chronicles,Action,FALSE,2021-09-04,2024-09-03
+TTL-1144,Hidden Hour Origins,Horror,FALSE,2024-02-19,2025-02-18
+TTL-1145,PSL Highlights 2,Sport,TRUE,2023-04-24,2024-04-23
+TTL-1146,Golf Open Championship 2,Sport,TRUE,2023-09-02,2024-09-01
+TTL-1147,Quiet Beacon,Thriller,FALSE,2025-03-03,2030-03-02
+TTL-1148,Bitter Promise,Romance,FALSE,2022-01-20,2027-01-19
+TTL-1149,Midnight Highveld Uncovered,Lifestyle,FALSE,2022-07-10,2023-07-10
+TTL-1150,Burning Coast,Drama,FALSE,2024-01-25,2026-01-24
+TTL-1151,Northern Divide II,Action,FALSE,2023-03-11,2025-03-10
+TTL-1152,Quiet Kingdom,Sci-Fi,FALSE,2022-06-13,2025-06-12
+TTL-1153,Northern Divide Chronicles,Sci-Fi,FALSE,2021-05-02,2026-05-01
+TTL-1154,Quiet Storm Chronicles,Romance,FALSE,2022-05-21,2027-05-20
+TTL-1155,Crooked Harbour,Kids,FALSE,2023-08-25,2028-08-23
+TTL-1156,Rising Ridge III,Action,FALSE,2023-09-23,2025-09-22
+TTL-1157,Broken Crossing III,Reality,FALSE,2023-12-20,2028-12-18
+TTL-1158,Long Divide II,Reality,FALSE,2025-01-26,2027-01-26
+TTL-1159,Quiet Divide III,Action,FALSE,2025-08-22,2028-08-21
+TTL-1160,Burning Harbour Uncovered,Action,FALSE,2024-05-26,2029-05-25
+TTL-1161,Silent Circuit Uncovered,Thriller,FALSE,2023-05-11,2026-05-10
+TTL-1162,Last Beacon Files,Comedy,FALSE,2023-01-17,2025-01-16
+TTL-1163,Bitter Highveld Returns,Drama,FALSE,2021-01-07,2026-01-06
+TTL-1164,Last Season Chronicles,Action,FALSE,2022-12-04,2025-12-03
+TTL-1165,Broken Divide Returns,Kids,FALSE,2023-11-24,2026-11-23
+TTL-1166,A Township Files,Crime,FALSE,2024-09-14,2025-09-14
+TTL-1167,Red Shadow III,Comedy,FALSE,2024-06-10,2026-06-10
+TTL-1168,Rising Rift Files,Thriller,FALSE,2021-04-09,2023-04-09
+TTL-1169,Rising Signal,Action,FALSE,2022-01-15,2023-01-15
+TTL-1170,Rising Current Files,Reality,FALSE,2025-10-01,2027-10-01
+TTL-1171,Red Circuit Origins,Comedy,FALSE,2022-08-06,2023-08-06
+TTL-1172,Silent Mountain III,Reality,FALSE,2022-12-20,2023-12-20
+TTL-1173,Silent Circuit Uncovered 2,Romance,FALSE,2021-03-19,2022-03-19
+TTL-1174,Long Frontier Returns,Comedy,FALSE,2022-07-20,2024-07-19
+TTL-1175,Crooked Hour 2,Documentary,FALSE,2021-05-02,2026-05-01
+TTL-1176,A Mountain Origins,Local Drama,FALSE,2021-02-07,2026-02-06
+TTL-1177,Red Ridge Uncovered,Romance,FALSE,2023-12-09,2024-12-08
+TTL-1178,Second Republic,Reality,FALSE,2023-02-07,2024-02-07
+TTL-1179,Comrades Marathon 2,Sport,TRUE,2021-11-10,2024-11-09
+TTL-1180,Rising Harbour,Action,FALSE,2021-10-22,2023-10-22
+TTL-1181,Distant Beacon II,Drama,FALSE,2025-05-02,2026-05-02
+TTL-1182,Red Ridge Uncovered 2,Music,FALSE,2021-08-20,2024-08-19
+TTL-1183,Distant Harbour Returns,Reality,FALSE,2021-05-11,2024-05-10
+TTL-1184,Long Beacon,Comedy,FALSE,2025-12-18,2028-12-17
+TTL-1185,Comrades Marathon 3,Sport,TRUE,2022-07-11,2027-07-10
+TTL-1186,Quiet Republic Files,Action,FALSE,2021-02-22,2022-02-22
+TTL-1187,Hidden Signal,Drama,FALSE,2023-08-10,2028-08-08
+TTL-1188,Last Divide,Action,FALSE,2024-11-06,2029-11-05
+TTL-1189,Iron Republic Uncovered,Local Drama,FALSE,2024-12-25,2027-12-25
+TTL-1190,Midnight Storm Returns,Action,FALSE,2021-09-03,2026-09-02
+TTL-1191,Broken Verdict,Romance,FALSE,2023-09-17,2026-09-16
+TTL-1192,Second Coast,Comedy,FALSE,2023-06-18,2026-06-17
+TTL-1193,Midnight Promise,Music,FALSE,2023-03-16,2024-03-15
+TTL-1194,A Ridge III,Drama,FALSE,2025-07-12,2028-07-11
+TTL-1195,The Shadow II,Comedy,FALSE,2023-04-05,2025-04-04
+TTL-1196,Iron Promise III,Romance,FALSE,2024-06-13,2027-06-13
+TTL-1197,Wild Karoo Returns,Drama,FALSE,2023-12-04,2024-12-03
+TTL-1198,Crooked Harvest II,Action,FALSE,2022-07-27,2025-07-26
+TTL-1199,Red Frontier,Reality,FALSE,2025-11-15,2026-11-15
+TTL-1200,Silent Signal,Horror,FALSE,2025-05-23,2027-05-23
+TTL-1201,Red Mountain Returns,Reality,FALSE,2025-10-18,2028-10-17
+TTL-1202,Red Harbour Origins,Thriller,FALSE,2024-03-07,2025-03-07
+TTL-1203,Distant Season II,Drama,FALSE,2021-03-08,2022-03-08
+TTL-1204,Broken Rift III,Horror,FALSE,2021-08-14,2024-08-13
+TTL-1205,Northern Season,Drama,FALSE,2025-01-07,2027-01-07
+TTL-1206,Burning Rift Returns,Local Drama,FALSE,2023-04-21,2024-04-20
+TTL-1207,Burning Verdict,News,FALSE,2023-03-09,2028-03-07
+TTL-1208,Rising Storm Files,Reality,FALSE,2021-04-03,2024-04-02
+TTL-1209,Northern Hour,Action,FALSE,2022-10-22,2023-10-22
+TTL-1210,Distant Frontier,Drama,FALSE,2021-08-20,2024-08-19
+TTL-1211,Second Mountain II,Documentary,FALSE,2022-07-02,2025-07-01
+TTL-1212,The Republic,Drama,FALSE,2025-07-24,2028-07-23
+TTL-1213,Northern Season 2,Drama,FALSE,2022-11-23,2023-11-23
+TTL-1214,Hidden Shadow III,Horror,FALSE,2023-03-20,2025-03-19
+TTL-1215,Burning Mountain III,Thriller,FALSE,2024-07-09,2027-07-09
+TTL-1216,Second Beacon Returns,Romance,FALSE,2024-11-03,2027-11-03
+TTL-1217,Long Karoo Returns,Lifestyle,FALSE,2021-06-16,2022-06-16
+TTL-1218,Distant Hour,Drama,FALSE,2025-03-24,2027-03-24
+TTL-1219,Distant Republic Returns,Crime,FALSE,2021-07-03,2022-07-03
+TTL-1220,Bitter Coast Chronicles,Comedy,FALSE,2025-08-11,2028-08-10
+TTL-1221,Red Kingdom II,Horror,FALSE,2025-01-16,2030-01-15
+TTL-1222,Iron Reckoning Returns,Comedy,FALSE,2025-10-09,2026-10-09
+TTL-1223,Currie Cup 2023,Sport,TRUE,2023-11-27,2025-11-26
+TTL-1224,Quiet Hour III,Drama,FALSE,2023-11-27,2026-11-26
+TTL-1225,Premier League Live 2026,Sport,TRUE,2024-06-16,2027-06-16
+TTL-1226,Rising Ridge Uncovered,Thriller,FALSE,2022-02-12,2025-02-11
+TTL-1227,Bitter Reckoning 2,Local Drama,FALSE,2022-01-16,2027-01-15
+TTL-1228,Last Rift Uncovered,Comedy,FALSE,2022-04-15,2024-04-14
+TTL-1229,Northern Beacon Origins,Comedy,FALSE,2023-09-02,2026-09-01
+TTL-1230,Quiet Verdict Files,Action,FALSE,2022-03-13,2024-03-12
+TTL-1231,Hidden Shadow Uncovered,Thriller,FALSE,2022-10-26,2024-10-25
+TTL-1232,Quiet Karoo,Drama,FALSE,2024-05-15,2026-05-15
+TTL-1233,Crooked Harbour 2,Crime,FALSE,2025-02-20,2026-02-20
+TTL-1234,Golden Divide,Crime,FALSE,2021-08-12,2026-08-11
+TTL-1235,Hidden Harvest,Crime,FALSE,2024-05-03,2026-05-03
+TTL-1236,Rising Mountain Uncovered,Kids,FALSE,2025-10-16,2030-10-15
+TTL-1237,Second Archive Uncovered,Comedy,FALSE,2022-02-10,2023-02-10
+TTL-1238,Quiet Ridge Files,Drama,FALSE,2023-07-10,2025-07-09
+TTL-1239,Golden Mountain Chronicles,Lifestyle,FALSE,2022-11-03,2023-11-03
+TTL-1240,Northern Ridge II,Drama,FALSE,2024-03-13,2025-03-13
+TTL-1241,Long Compass Chronicles,Action,FALSE,2021-05-22,2022-05-22
+TTL-1242,Burning Shadow Origins,Horror,FALSE,2025-09-26,2027-09-26
+TTL-1243,A Coast II,Action,FALSE,2024-06-06,2026-06-06
+TTL-1244,Northern Reckoning,Crime,FALSE,2024-12-02,2027-12-02
+TTL-1245,Long Verdict Returns,Thriller,FALSE,2023-07-15,2024-07-14
+TTL-1246,Comrades Marathon 4,Sport,TRUE,2024-06-24,2029-06-23
+TTL-1247,Northern Divide Chronicles 2,Thriller,FALSE,2025-09-27,2028-09-26
+TTL-1248,Hidden Archive III,Music,FALSE,2023-12-16,2024-12-15
+TTL-1249,Wimbledon 2025,Sport,TRUE,2025-09-17,2027-09-17
+TTL-1250,Burning Anchor,News,FALSE,2021-03-25,2022-03-25
+TTL-1251,Northern Signal Uncovered,Drama,FALSE,2024-06-06,2025-06-06
+TTL-1252,Cricket World Cup 2,Sport,TRUE,2022-08-21,2025-08-20
+TTL-1253,Northern Ridge Uncovered,Sci-Fi,FALSE,2021-11-12,2024-11-11
+TTL-1254,Wild Frontier,Kids,FALSE,2023-05-16,2025-05-15
+TTL-1255,Hidden Storm,Comedy,FALSE,2022-05-25,2023-05-25
+TTL-1256,Hidden Circuit III,Reality,FALSE,2023-06-06,2028-06-04
+TTL-1257,Quiet Beacon 2,Action,FALSE,2024-05-12,2029-05-11
+TTL-1258,Northern Divide Files,Drama,FALSE,2023-09-16,2025-09-15
+TTL-1259,Broken Harvest II,Reality,FALSE,2025-11-25,2030-11-24
+TTL-1260,Wild Ridge,Reality,FALSE,2025-10-27,2030-10-26
+TTL-1261,Hidden Highveld,News,FALSE,2023-02-19,2026-02-18
+TTL-1262,Crooked Hour Files,Action,FALSE,2025-05-11,2027-05-11
+TTL-1263,Wild Current II,Action,FALSE,2024-06-18,2026-06-18
+TTL-1264,Hidden Crossing II,Local Drama,FALSE,2022-01-05,2027-01-04
+TTL-1265,Midnight Mountain III,Crime,FALSE,2024-01-12,2025-01-11
+TTL-1266,Burning Signal Files,Reality,FALSE,2022-01-20,2027-01-19
+TTL-1267,Wild Promise II,Drama,FALSE,2023-09-27,2028-09-25
+TTL-1268,A Harbour Files,Action,FALSE,2022-01-08,2027-01-07
+TTL-1269,Distant Frontier Returns,Comedy,FALSE,2023-03-13,2024-03-12
+TTL-1270,Midnight Crossing Uncovered,Drama,FALSE,2023-02-06,2028-02-05
+TTL-1271,Quiet Signal,Action,FALSE,2025-05-02,2026-05-02
+TTL-1272,The Anchor II 2,Comedy,FALSE,2024-12-15,2026-12-15
+TTL-1273,PSL Highlights 3,Sport,TRUE,2021-04-15,2023-04-15
+TTL-1274,Bitter Reckoning III,Action,FALSE,2021-11-05,2024-11-04
+TTL-1275,Last Mountain,Action,FALSE,2025-07-01,2028-06-30
+TTL-1276,Crooked Crossing Chronicles,Thriller,FALSE,2025-06-18,2026-06-18
+TTL-1277,A Ridge Files,Drama,FALSE,2025-10-21,2028-10-20
+TTL-1278,Crooked Crossing,Reality,FALSE,2022-11-07,2024-11-06
+TTL-1279,A Beacon Uncovered,Documentary,FALSE,2022-12-23,2024-12-22
+TTL-1280,Bitter Coast III,Kids,FALSE,2024-04-22,2029-04-21
+TTL-1281,Iron Hour,Drama,FALSE,2023-09-19,2025-09-18
+TTL-1282,Iron Promise II,Documentary,FALSE,2023-12-14,2025-12-13
+TTL-1283,Golden Township III,Horror,FALSE,2024-07-15,2029-07-14
+TTL-1284,Long Archive,Action,FALSE,2022-03-16,2023-03-16
+TTL-1285,The Republic 2,Drama,FALSE,2022-05-10,2027-05-09
+TTL-1286,Second Anchor III 2,Action,FALSE,2021-03-23,2023-03-23
+TTL-1287,Hidden Beacon Returns,Drama,FALSE,2024-05-02,2025-05-02
+TTL-1288,Bitter Reckoning Origins,Drama,FALSE,2021-03-27,2022-03-27
+TTL-1289,The Crossing II,Action,FALSE,2023-11-09,2028-11-07
+TTL-1290,Quiet Coast Returns,Lifestyle,FALSE,2025-06-27,2026-06-27
+TTL-1291,Northern Township Uncovered,Comedy,FALSE,2021-03-01,2022-03-01
+TTL-1292,Rising Highveld,Lifestyle,FALSE,2025-03-19,2026-03-19
+TTL-1293,Midnight Harbour Uncovered,Drama,FALSE,2021-01-04,2023-01-04
+TTL-1294,Silent Storm Files,Action,FALSE,2023-06-17,2024-06-16
+TTL-1295,Hidden Harvest Uncovered,Documentary,FALSE,2025-12-27,2028-12-26
+TTL-1296,Quiet Crossing Returns,Documentary,FALSE,2025-08-09,2030-08-08
+TTL-1297,Distant Reckoning Origins,Local Drama,FALSE,2024-05-17,2029-05-16
+TTL-1298,Crooked Beacon,Crime,FALSE,2022-05-24,2023-05-24
+TTL-1299,Red Promise Origins,Local Drama,FALSE,2024-07-20,2025-07-20
+TTL-1300,Last Harvest Returns,Kids,FALSE,2024-03-21,2026-03-21
+TTL-1301,Wild Republic II,Thriller,FALSE,2023-01-02,2024-01-02
+TTL-1302,PSL Highlights 4,Sport,TRUE,2023-11-12,2028-11-10
+TTL-1303,The Season Origins,Comedy,FALSE,2021-09-09,2023-09-09
+TTL-1304,Northern Promise Chronicles,Kids,FALSE,2022-01-11,2027-01-10
+TTL-1305,Burning Coast Returns,Action,FALSE,2021-02-02,2022-02-02
+TTL-1306,Rising Highveld 2,Local Drama,FALSE,2021-07-13,2024-07-12
+TTL-1307,Midnight Karoo Chronicles,Reality,FALSE,2024-07-02,2026-07-02
+TTL-1308,Burning Hour III,Romance,FALSE,2024-09-04,2027-09-04
+TTL-1309,Wild Hour II,Horror,FALSE,2023-11-14,2026-11-13
+TTL-1310,Golden Kingdom,Action,FALSE,2021-06-04,2024-06-03
+TTL-1311,Wild Republic Origins,Kids,FALSE,2022-11-27,2025-11-26
+TTL-1312,Iron Highveld Files,Romance,FALSE,2024-10-18,2026-10-18
+TTL-1313,Second Kingdom Chronicles,Comedy,FALSE,2023-02-08,2024-02-08
+TTL-1314,Champions League 2026,Sport,TRUE,2023-04-25,2028-04-23
+TTL-1315,Second Divide,Action,FALSE,2025-02-08,2027-02-08
+TTL-1316,Golden Beacon Chronicles 2,Local Drama,FALSE,2024-02-16,2025-02-15
+TTL-1317,Quiet Season,Crime,FALSE,2021-05-12,2026-05-11
+TTL-1318,Bitter Ridge II,Documentary,FALSE,2022-05-01,2025-04-30
+TTL-1319,Formula One Grand Prix 2026,Sport,TRUE,2023-09-05,2024-09-04
+TTL-1320,Red Harvest Chronicles,Drama,FALSE,2024-04-25,2029-04-24
+TTL-1321,Rising Rift III,Documentary,FALSE,2023-04-15,2026-04-14
+TTL-1322,Crooked Storm III,Local Drama,FALSE,2025-11-18,2027-11-18
+TTL-1323,Silent Rift Chronicles,Horror,FALSE,2023-07-03,2026-07-02
+TTL-1324,Rising Harbour 2,Drama,FALSE,2023-11-16,2024-11-15
+TTL-1325,Rising Township II,Romance,FALSE,2024-10-02,2029-10-01
+TTL-1326,Silent Harvest Uncovered,Local Drama,FALSE,2022-10-26,2025-10-25
+TTL-1327,Broken Anchor Chronicles,Drama,FALSE,2023-02-09,2028-02-08
+TTL-1328,Comrades Marathon 2023,Sport,TRUE,2024-09-13,2029-09-12
+TTL-1329,Golden Township Chronicles,Lifestyle,FALSE,2021-10-03,2026-10-02
+TTL-1330,Crooked Mountain,Thriller,FALSE,2025-02-21,2026-02-21
+TTL-1331,Quiet Highveld Origins,Crime,FALSE,2021-02-26,2022-02-26
+TTL-1332,Last Mountain 2,Drama,FALSE,2025-10-01,2030-09-30
+TTL-1333,Last Circuit Origins,Thriller,FALSE,2024-03-16,2026-03-16
+TTL-1334,Red Hour,Reality,FALSE,2023-11-03,2026-11-02
+TTL-1335,Burning Rift Files,Thriller,FALSE,2021-07-25,2024-07-24
+TTL-1336,Africa Cup of Nations 2023,Sport,TRUE,2022-09-02,2024-09-01
+TTL-1337,Hidden Ridge,Drama,FALSE,2025-08-13,2027-08-13
+TTL-1338,Africa Cup of Nations 2026,Sport,TRUE,2022-05-26,2024-05-25
+TTL-1339,Second Compass II,Kids,FALSE,2024-03-16,2026-03-16
+TTL-1340,A Township Uncovered,Comedy,FALSE,2021-09-17,2026-09-16
+TTL-1341,Rising Compass,Romance,FALSE,2025-08-20,2028-08-19
+TTL-1342,A Harvest,Sci-Fi,FALSE,2025-01-13,2026-01-13
+TTL-1343,Crooked Storm II,Music,FALSE,2021-01-23,2022-01-23
+TTL-1344,Midnight Harvest Returns,Reality,FALSE,2024-07-11,2026-07-11
+TTL-1345,Wild Mountain Origins,Action,FALSE,2021-01-14,2023-01-14
+TTL-1346,Northern Rift Files,Horror,FALSE,2024-07-08,2026-07-08
+TTL-1347,A Current,Music,FALSE,2024-09-07,2026-09-07
+TTL-1348,Broken Compass Origins,Action,FALSE,2025-02-04,2030-02-03
+TTL-1349,Northern Harvest II,Drama,FALSE,2025-07-08,2026-07-08
+TTL-1350,Golden Republic Returns,Reality,FALSE,2023-09-18,2024-09-17
+TTL-1351,Crooked Promise III,Drama,FALSE,2022-01-22,2023-01-22
+TTL-1352,Silent Storm,Drama,FALSE,2023-03-26,2025-03-25
+TTL-1353,Quiet Anchor Returns,Drama,FALSE,2025-06-26,2026-06-26
+TTL-1354,Red Verdict,Documentary,FALSE,2023-06-21,2025-06-20
+TTL-1355,Wild Archive Files,Music,FALSE,2025-02-10,2026-02-10
+TTL-1356,Rising Promise III,News,FALSE,2021-02-16,2026-02-15
+TTL-1357,Rugby Championship,Sport,TRUE,2023-11-26,2028-11-24
+TTL-1358,Hidden Archive II,Local Drama,FALSE,2023-07-13,2028-07-11
+TTL-1359,Midnight Republic Origins,Romance,FALSE,2024-01-22,2025-01-21
+TTL-1360,Hidden Rift Chronicles,Kids,FALSE,2021-08-20,2024-08-19
+TTL-1361,Hidden Verdict,Comedy,FALSE,2024-03-18,2025-03-18
+TTL-1362,Cricket World Cup 2026 2,Sport,TRUE,2025-03-03,2027-03-03
+TTL-1363,Wild Harvest Returns,Reality,FALSE,2023-12-23,2026-12-22
+TTL-1364,Hidden Verdict Uncovered,Horror,FALSE,2025-02-21,2027-02-21
+TTL-1365,Crooked Anchor Origins,Romance,FALSE,2022-12-17,2027-12-16
+TTL-1366,Crooked Ridge Chronicles,Documentary,FALSE,2023-02-18,2025-02-17
+TTL-1367,The Season Origins 2,Kids,FALSE,2025-08-21,2030-08-20
+TTL-1368,Wild Crossing 2,Romance,FALSE,2021-09-24,2026-09-23
+TTL-1369,Africa Cup of Nations 2024,Sport,TRUE,2024-01-22,2027-01-21
+TTL-1370,Distant Crossing Uncovered,Documentary,FALSE,2025-04-06,2030-04-05
+TTL-1371,A Signal Chronicles,Horror,FALSE,2023-05-06,2028-05-04
+TTL-1372,Golden Verdict,Kids,FALSE,2022-11-11,2027-11-10
+TTL-1373,Crooked Season Uncovered,Thriller,FALSE,2022-05-08,2025-05-07
+TTL-1374,Long Signal Uncovered,Horror,FALSE,2023-01-27,2028-01-26
+TTL-1375,Distant Signal Uncovered,Thriller,FALSE,2024-09-12,2029-09-11
+TTL-1376,Golden Signal Returns,Local Drama,FALSE,2022-07-06,2025-07-05
+TTL-1377,Bitter Frontier Origins,Comedy,FALSE,2024-10-05,2025-10-05
+TTL-1378,Premier League Live 2026 2,Sport,TRUE,2023-06-05,2024-06-04
+TTL-1379,Distant Signal,Drama,FALSE,2024-01-07,2027-01-06
+TTL-1380,Iron Mountain Returns,Music,FALSE,2022-01-21,2027-01-20
+TTL-1381,Bitter Kingdom III,Comedy,FALSE,2022-07-05,2027-07-04
+TTL-1382,Last Kingdom Origins,Kids,FALSE,2024-02-16,2029-02-14
+TTL-1383,Northern Anchor Origins,Reality,FALSE,2024-06-20,2026-06-20
+TTL-1384,Distant Promise,Local Drama,FALSE,2023-07-08,2026-07-07
+TTL-1385,The Promise,Action,FALSE,2022-08-01,2024-07-31
+TTL-1386,Hidden Township Returns,Horror,FALSE,2025-07-07,2027-07-07
+TTL-1387,Second Rift 2,Music,FALSE,2024-11-13,2029-11-12
+TTL-1388,A Crossing,Action,FALSE,2024-12-18,2027-12-18
+TTL-1389,Formula One Grand Prix 2023,Sport,TRUE,2021-04-09,2022-04-09
+TTL-1390,Midnight Hour Returns,Lifestyle,FALSE,2021-11-10,2024-11-09
+TTL-1391,Second Harbour,Action,FALSE,2025-06-04,2030-06-03
+TTL-1392,Wild Season Files,Action,FALSE,2024-01-08,2027-01-07
+TTL-1393,Quiet Frontier Uncovered,Drama,FALSE,2025-07-01,2028-06-30
+TTL-1394,Crooked Divide Uncovered,Thriller,FALSE,2021-09-07,2026-09-06
+TTL-1395,Burning Divide Origins,Comedy,FALSE,2025-06-02,2030-06-01
+TTL-1396,Last Circuit Returns,Reality,FALSE,2021-05-25,2026-05-24
+TTL-1397,The Hour Origins,Crime,FALSE,2025-10-18,2028-10-17
+TTL-1398,Rising Highveld Chronicles,Comedy,FALSE,2024-08-11,2026-08-11
+TTL-1399,Quiet Frontier Files,Comedy,FALSE,2025-12-17,2030-12-16
+TTL-1400,Broken Kingdom Uncovered,Kids,FALSE,2023-09-21,2028-09-19
+TTL-1401,Golden Harvest,Lifestyle,FALSE,2025-05-08,2026-05-08
+TTL-1402,Iron Season,Action,FALSE,2021-05-23,2022-05-23
+TTL-1403,Red Harvest Uncovered,Reality,FALSE,2022-09-01,2024-08-31
+TTL-1404,Crooked Hour Uncovered,Kids,FALSE,2022-10-11,2027-10-10
+TTL-1405,Northern Shadow Uncovered,Crime,FALSE,2023-06-02,2028-05-31
+TTL-1406,Rugby Championship 2025,Sport,TRUE,2021-12-05,2026-12-04
+TTL-1407,Burning Promise,Drama,FALSE,2024-03-11,2025-03-11
+TTL-1408,A Verdict,Sci-Fi,FALSE,2024-04-20,2025-04-20
+TTL-1409,Springbok Test Series 2026,Sport,TRUE,2024-09-25,2025-09-25
+TTL-1410,A Circuit II,Action,FALSE,2025-04-20,2027-04-20
+TTL-1411,Midnight Ridge II,Thriller,FALSE,2025-04-13,2028-04-12
+TTL-1412,Iron Karoo Returns,Reality,FALSE,2024-06-16,2026-06-16
+TTL-1413,The Harvest Returns,Comedy,FALSE,2022-09-16,2025-09-15
+TTL-1414,Last Harbour Uncovered,Sci-Fi,FALSE,2022-06-27,2027-06-26
+TTL-1415,Rugby Championship 2,Sport,TRUE,2024-03-21,2027-03-21
+TTL-1416,Rising Harvest Origins,Reality,FALSE,2023-07-24,2026-07-23
+TTL-1417,A Harbour II,Drama,FALSE,2021-04-26,2022-04-26
+TTL-1418,Wild Compass,Comedy,FALSE,2024-12-16,2027-12-16
+TTL-1419,Crooked Republic,Action,FALSE,2023-10-03,2026-10-02
+TTL-1420,Rising Highveld 3,Comedy,FALSE,2021-09-18,2024-09-17
+TTL-1421,Crooked Frontier Files,Comedy,FALSE,2022-05-03,2024-05-02
+TTL-1422,Rising Promise Uncovered,Crime,FALSE,2022-10-04,2023-10-04
+TTL-1423,Bitter Divide Uncovered,Comedy,FALSE,2022-08-09,2023-08-09
+TTL-1424,Midnight Harvest Origins,Drama,FALSE,2023-03-06,2026-03-05
+TTL-1425,Quiet Mountain Chronicles,Action,FALSE,2023-04-18,2026-04-17
+TTL-1426,A Promise,Sci-Fi,FALSE,2023-08-19,2028-08-17
+TTL-1427,Crooked Compass Files,Drama,FALSE,2025-09-09,2027-09-09
+TTL-1428,Crooked Highveld Origins,Documentary,FALSE,2022-08-12,2025-08-11
+TTL-1429,Wild Divide,Comedy,FALSE,2025-12-18,2027-12-18
+TTL-1430,Burning Ridge Uncovered,Drama,FALSE,2022-01-07,2023-01-07
+TTL-1431,Red Rift,Drama,FALSE,2022-11-09,2024-11-08
+TTL-1432,A Season Chronicles,Crime,FALSE,2025-09-25,2026-09-25
+TTL-1433,Iron Compass,Action,FALSE,2023-06-03,2025-06-02
+TTL-1434,A Harvest Origins,Drama,FALSE,2025-10-02,2027-10-02
+TTL-1435,Rising Republic,Thriller,FALSE,2021-06-20,2026-06-19
+TTL-1436,Golden Divide Returns,Lifestyle,FALSE,2024-04-03,2029-04-02
+TTL-1437,Broken Divide II,Reality,FALSE,2025-05-08,2026-05-08
+TTL-1438,Silent Coast III,Action,FALSE,2025-11-02,2030-11-01
+TTL-1439,Long Storm Files,Drama,FALSE,2022-03-21,2023-03-21
+TTL-1440,Long Current,Documentary,FALSE,2021-10-14,2026-10-13
+TTL-1441,Red Rift III,Kids,FALSE,2024-10-18,2026-10-18
+TTL-1442,The Mountain II,Reality,FALSE,2025-09-09,2028-09-08
+TTL-1443,Silent Harbour III,Drama,FALSE,2021-04-03,2024-04-02
+TTL-1444,Crooked Anchor,Crime,FALSE,2025-11-02,2030-11-01
+TTL-1445,Hidden Storm 2,Comedy,FALSE,2022-03-26,2024-03-25
+TTL-1446,Wild Anchor,Action,FALSE,2023-07-22,2025-07-21
+TTL-1447,A Township Uncovered 2,Reality,FALSE,2024-06-08,2026-06-08
+TTL-1448,Bitter Hour,Thriller,FALSE,2023-10-10,2026-10-09
+TTL-1449,Wild Season Origins,Comedy,FALSE,2024-10-05,2027-10-05
+TTL-1450,Burning Hour,Thriller,FALSE,2023-05-15,2024-05-14
+TTL-1451,Burning Karoo III,Documentary,FALSE,2021-08-03,2023-08-03
+TTL-1452,Netball World Cup,Sport,TRUE,2022-10-09,2023-10-09
+TTL-1453,Quiet Verdict Uncovered,Action,FALSE,2024-07-09,2027-07-09
+TTL-1454,Rising Karoo,Drama,FALSE,2022-01-15,2025-01-14
+TTL-1455,Crooked Shadow,Reality,FALSE,2021-02-03,2023-02-03
+TTL-1456,Rising Ridge III 2,Crime,FALSE,2022-09-17,2027-09-16
+TTL-1457,Broken Anchor Returns,News,FALSE,2023-10-02,2024-10-01
+TTL-1458,The Kingdom III,Comedy,FALSE,2025-11-16,2028-11-15
+TTL-1459,Broken Coast Files,Drama,FALSE,2024-11-23,2027-11-23
+TTL-1460,Bitter Storm II,Thriller,FALSE,2023-09-27,2026-09-26
+TTL-1461,Second Signal,Romance,FALSE,2021-05-10,2024-05-09
+TTL-1462,Red Karoo Files,Documentary,FALSE,2024-02-15,2025-02-14
+TTL-1463,Rising Promise,Kids,FALSE,2021-04-24,2023-04-24
+TTL-1464,Second Rift Origins,Comedy,FALSE,2023-08-04,2028-08-02
+TTL-1465,Wild Shadow II,Reality,FALSE,2025-03-14,2028-03-13
+TTL-1466,Rising Anchor,Sci-Fi,FALSE,2022-12-10,2024-12-09
+TTL-1467,A Promise Chronicles,Kids,FALSE,2022-07-08,2023-07-08
+TTL-1468,Silent Frontier III,Kids,FALSE,2025-08-06,2027-08-06
+TTL-1469,Red Ridge,Thriller,FALSE,2024-08-26,2029-08-25
+TTL-1470,The Beacon Uncovered,Comedy,FALSE,2025-07-19,2026-07-19
+TTL-1471,Broken Reckoning Returns,Crime,FALSE,2021-11-11,2023-11-11
+TTL-1472,A Promise 2,Horror,FALSE,2024-03-16,2025-03-16
+TTL-1473,Currie Cup 2024,Sport,TRUE,2022-05-16,2025-05-15
+TTL-1474,Second Signal Chronicles,Local Drama,FALSE,2023-12-01,2026-11-30
+TTL-1475,Midnight Storm,Kids,FALSE,2022-07-06,2024-07-05
+TTL-1476,Northern Ridge Chronicles,Lifestyle,FALSE,2023-07-04,2025-07-03
+TTL-1477,The Coast,Action,FALSE,2021-12-03,2026-12-02
+TTL-1478,Golden Harvest 2,Drama,FALSE,2021-02-01,2026-01-31
+TTL-1479,Second Signal Chronicles 2,Action,FALSE,2023-11-24,2026-11-23
+TTL-1480,Midnight Harbour Returns,Local Drama,FALSE,2023-01-14,2025-01-13
+TTL-1481,Crooked Reckoning II,Horror,FALSE,2024-11-13,2025-11-13
+TTL-1482,Long Divide Files,Documentary,FALSE,2022-04-16,2024-04-15
+TTL-1483,A Frontier III,Documentary,FALSE,2021-02-08,2026-02-07
+TTL-1484,Midnight Township III,Crime,FALSE,2025-01-09,2028-01-09
+TTL-1485,Midnight Crossing III,Action,FALSE,2025-08-09,2027-08-09
+TTL-1486,Crooked Compass,Local Drama,FALSE,2022-10-20,2027-10-19
+TTL-1487,Bitter Archive,Documentary,FALSE,2021-08-11,2024-08-10
+TTL-1488,Broken Karoo Chronicles,Reality,FALSE,2022-02-16,2024-02-16
+TTL-1489,Hidden Verdict III,Local Drama,FALSE,2024-04-21,2026-04-21
+TTL-1490,Northern Rift II,Local Drama,FALSE,2025-08-09,2026-08-09
+TTL-1491,Long Archive II,Horror,FALSE,2024-04-17,2026-04-17
+TTL-1492,Midnight Compass Files,Local Drama,FALSE,2025-07-18,2027-07-18
+TTL-1493,Red Karoo II,Action,FALSE,2022-10-24,2024-10-23
+TTL-1494,The Karoo Origins,Drama,FALSE,2022-03-02,2027-03-01
+TTL-1495,Northern Anchor Chronicles,Drama,FALSE,2023-05-08,2024-05-07
+TTL-1496,Long Township,Sci-Fi,FALSE,2022-08-14,2024-08-13
+TTL-1497,Golden Reckoning Files,Reality,FALSE,2024-11-06,2026-11-06
+TTL-1498,Netball World Cup 2025,Sport,TRUE,2021-02-15,2023-02-15
+TTL-1499,A Hour,Comedy,FALSE,2022-12-13,2023-12-13
+TTL-1500,Springbok Test Series,Sport,TRUE,2022-10-12,2025-10-11
+TTL-1501,Golf Open Championship 2026,Sport,TRUE,2023-10-23,2025-10-22
+TTL-1502,Champions League 2026 2,Sport,TRUE,2021-07-05,2022-07-05
+TTL-1503,Golden Harbour,Drama,FALSE,2022-10-03,2024-10-02
+TTL-1504,Burning Mountain III 2,Local Drama,FALSE,2023-10-04,2025-10-03
+TTL-1505,Wild Crossing III,Comedy,FALSE,2021-11-05,2024-11-04
+TTL-1506,Red Rift 2,Comedy,FALSE,2024-08-04,2025-08-04
+TTL-1507,Silent Crossing,Action,FALSE,2023-07-02,2026-07-01
+TTL-1508,Last Karoo,Thriller,FALSE,2022-05-01,2025-04-30
+TTL-1509,Broken Season,Comedy,FALSE,2021-07-09,2022-07-09
+TTL-1510,The Republic Chronicles,Crime,FALSE,2024-12-06,2026-12-06
+TTL-1511,The Harvest Chronicles,Documentary,FALSE,2021-06-25,2023-06-25
+TTL-1512,Hidden Republic,Action,FALSE,2024-03-18,2025-03-18
+TTL-1513,Burning Reckoning,Drama,FALSE,2025-02-24,2026-02-24
+TTL-1514,Hidden Rift Uncovered,Reality,FALSE,2021-04-19,2022-04-19
+TTL-1515,Midnight Current Origins 2,Comedy,FALSE,2024-07-22,2026-07-22
+TTL-1516,Rising Signal Uncovered,Reality,FALSE,2025-07-09,2027-07-09
+TTL-1517,Wild Ridge Chronicles,Comedy,FALSE,2022-06-02,2023-06-02
+TTL-1518,Rising Season Chronicles,Crime,FALSE,2025-07-27,2030-07-26
+TTL-1519,Last Anchor,Action,FALSE,2024-11-14,2026-11-14
+TTL-1520,Quiet Crossing,Reality,FALSE,2021-10-02,2026-10-01
+TTL-1521,Golden Rift II,Music,FALSE,2024-07-08,2027-07-08
+TTL-1522,Second Beacon,News,FALSE,2022-07-03,2027-07-02
+TTL-1523,Golden Republic,Sci-Fi,FALSE,2023-01-21,2028-01-20
+TTL-1524,Wild Reckoning Files,Local Drama,FALSE,2024-07-11,2026-07-11
+TTL-1525,Iron Hour Chronicles,Crime,FALSE,2024-05-23,2026-05-23
+TTL-1526,Wild Current Chronicles,Crime,FALSE,2024-09-22,2026-09-22
+TTL-1527,Second Storm,Lifestyle,FALSE,2024-12-18,2025-12-18
+TTL-1528,Distant Mountain III,Documentary,FALSE,2022-12-25,2023-12-25
+TTL-1529,Broken Shadow Origins,Comedy,FALSE,2024-02-24,2027-02-23
+TTL-1530,A Archive Chronicles,Comedy,FALSE,2023-06-09,2025-06-08
+TTL-1531,Distant Shadow,Drama,FALSE,2021-10-17,2024-10-16
+TTL-1532,Northern Beacon Uncovered,Action,FALSE,2022-02-27,2023-02-27
+TTL-1533,Golf Open Championship 2023 2,Sport,TRUE,2025-04-03,2028-04-02
+TTL-1534,A Township Files 2,Sci-Fi,FALSE,2022-10-15,2027-10-14
+TTL-1535,Rugby Championship 2025 2,Sport,TRUE,2024-04-07,2026-04-07
+TTL-1536,Distant Highveld Files,Comedy,FALSE,2023-02-22,2026-02-21
+TTL-1537,Distant Kingdom Chronicles,Drama,FALSE,2021-12-13,2026-12-12
+TTL-1538,Hidden Signal Origins,Action,FALSE,2025-08-06,2027-08-06
+TTL-1539,Burning Republic II,Action,FALSE,2025-11-12,2027-11-12
+TTL-1540,Crooked Frontier Returns,News,FALSE,2024-02-27,2027-02-26
+TTL-1541,Crooked Circuit Chronicles,Sci-Fi,FALSE,2025-10-15,2030-10-14
+TTL-1542,Broken Archive Chronicles,Crime,FALSE,2024-04-07,2029-04-06
+TTL-1543,Midnight Beacon Origins,Crime,FALSE,2024-07-24,2025-07-24
+TTL-1544,Quiet Harvest Files,Action,FALSE,2021-07-17,2022-07-17
+TTL-1545,Midnight Promise Chronicles,Kids,FALSE,2021-10-18,2026-10-17
+TTL-1546,Silent Highveld Returns,Action,FALSE,2025-06-21,2027-06-21
+TTL-1547,Silent Reckoning III,Thriller,FALSE,2021-07-26,2024-07-25
+TTL-1548,Rising Compass 2,Action,FALSE,2022-04-08,2025-04-07
+TTL-1549,Midnight Kingdom,Action,FALSE,2023-03-17,2028-03-15
+TTL-1550,Iron Frontier Uncovered,Thriller,FALSE,2022-11-16,2025-11-15
+TTL-1551,The Ridge,Reality,FALSE,2025-10-27,2027-10-27
+TTL-1552,Golden Karoo Files,Documentary,FALSE,2023-10-15,2028-10-13
+TTL-1553,A Township,Lifestyle,FALSE,2023-01-11,2028-01-10
+TTL-1554,Crooked Promise Files,Drama,FALSE,2025-11-20,2030-11-19
+TTL-1555,Silent Archive Chronicles,Documentary,FALSE,2024-08-21,2029-08-20
+TTL-1556,Africa Cup of Nations,Sport,TRUE,2021-10-10,2024-10-09
+TTL-1557,MotoGP Live 2024,Sport,TRUE,2021-11-20,2024-11-19
+TTL-1558,Long Signal III 2,Reality,FALSE,2022-10-23,2023-10-23
+TTL-1559,Quiet Coast Files,Action,FALSE,2021-06-13,2024-06-12
+TTL-1560,Boxing Fight Night 2026,Sport,TRUE,2024-06-15,2026-06-15
+TTL-1561,Wimbledon 2026,Sport,TRUE,2025-05-17,2030-05-16
+TTL-1562,Red Promise Uncovered,Reality,FALSE,2024-07-14,2027-07-14
+TTL-1563,Hidden Archive,News,FALSE,2021-12-20,2023-12-20
+TTL-1564,Wild Mountain Chronicles,Action,FALSE,2021-05-22,2026-05-21
+TTL-1565,The Signal,Lifestyle,FALSE,2023-01-24,2025-01-23
+TTL-1566,Wild Mountain III,Lifestyle,FALSE,2024-04-15,2025-04-15
+TTL-1567,The Harbour III,Reality,FALSE,2022-07-19,2023-07-19
+TTL-1568,Broken Compass,Sci-Fi,FALSE,2022-08-22,2027-08-21
+TTL-1569,Comrades Marathon 2024,Sport,TRUE,2025-03-12,2026-03-12
+TTL-1570,Bitter Mountain,Reality,FALSE,2023-12-27,2026-12-26
+TTL-1571,Broken Crossing Uncovered,Action,FALSE,2022-10-15,2027-10-14
+TTL-1572,Bitter Verdict II,Comedy,FALSE,2023-01-01,2027-12-31
+TTL-1573,Currie Cup 2024 2,Sport,TRUE,2024-03-23,2027-03-23
+TTL-1574,A Kingdom Returns,Sci-Fi,FALSE,2021-11-18,2024-11-17
+TTL-1575,The Frontier,Lifestyle,FALSE,2024-09-19,2027-09-19
+TTL-1576,Midnight Coast Files,Romance,FALSE,2025-11-10,2028-11-09
+TTL-1577,Northern Frontier III,News,FALSE,2025-01-20,2030-01-19
+TTL-1578,Distant Ridge,Sci-Fi,FALSE,2022-05-01,2025-04-30
+TTL-1579,A Anchor Files,Drama,FALSE,2022-02-24,2027-02-23
+TTL-1580,Distant Hour III,Drama,FALSE,2025-01-18,2026-01-18
+TTL-1581,Golden Divide 2,Action,FALSE,2023-10-24,2026-10-23
+TTL-1582,Golden Storm,Drama,FALSE,2021-04-08,2024-04-07
+TTL-1583,Rising Township Returns,Drama,FALSE,2024-06-24,2027-06-24
+TTL-1584,Iron Frontier,Drama,FALSE,2025-03-05,2028-03-04
+TTL-1585,Africa Cup of Nations 2026 2,Sport,TRUE,2022-01-03,2024-01-03
+TTL-1586,A Circuit,Comedy,FALSE,2022-12-21,2027-12-20
+TTL-1587,Iron Season 2,Drama,FALSE,2023-06-10,2028-06-08
+TTL-1588,Premier League Live 2024,Sport,TRUE,2023-09-02,2025-09-01
+TTL-1589,Last Compass,Local Drama,FALSE,2022-04-15,2024-04-14
+TTL-1590,Wimbledon 2024,Sport,TRUE,2025-02-23,2027-02-23
+TTL-1591,Olympic Games,Sport,TRUE,2022-11-02,2025-11-01
+TTL-1592,Midnight Anchor Origins,Romance,FALSE,2024-04-06,2025-04-06
+TTL-1593,Broken Compass Files,Reality,FALSE,2023-05-10,2028-05-08
+TTL-1594,Crooked Karoo Uncovered,Sci-Fi,FALSE,2025-03-23,2026-03-23
+TTL-1595,Wild Hour III,Local Drama,FALSE,2022-09-18,2025-09-17
+TTL-1596,Broken Signal Origins,Thriller,FALSE,2025-12-08,2027-12-08
+TTL-1597,Hidden Circuit Files,Drama,FALSE,2023-08-04,2025-08-03
+TTL-1598,Hidden Hour,Kids,FALSE,2024-04-03,2027-04-03
+TTL-1599,Rising Frontier Files,Comedy,FALSE,2024-03-26,2026-03-26
+TTL-1600,Second Beacon III,Crime,FALSE,2024-06-06,2027-06-06
+TTL-1601,Silent Storm II,Action,FALSE,2024-11-22,2027-11-22
+TTL-1602,Golden Harvest Chronicles,Comedy,FALSE,2025-02-06,2030-02-05
+TTL-1603,Distant Storm Returns,Action,FALSE,2022-03-09,2024-03-08
+TTL-1604,Red Season Uncovered,Crime,FALSE,2021-08-03,2022-08-03
+TTL-1605,Wild Circuit Returns,Crime,FALSE,2024-12-06,2029-12-05
+TTL-1606,Burning Anchor 2,Kids,FALSE,2025-09-15,2026-09-15
+TTL-1607,Northern Reckoning 2,Documentary,FALSE,2023-09-03,2025-09-02
+TTL-1608,Cricket World Cup 2024,Sport,TRUE,2024-03-13,2026-03-13
+TTL-1609,Silent Ridge Uncovered,Local Drama,FALSE,2022-11-22,2024-11-21
+TTL-1610,Iron Highveld II,Sci-Fi,FALSE,2022-08-03,2027-08-02
+TTL-1611,Wild Harbour Uncovered,Comedy,FALSE,2025-05-11,2030-05-10
+TTL-1612,A Divide,Local Drama,FALSE,2024-01-19,2025-01-18
+TTL-1613,Golden Archive II,Documentary,FALSE,2023-01-03,2028-01-02
+TTL-1614,Red Anchor Returns,Kids,FALSE,2023-06-05,2025-06-04
+TTL-1615,Iron Reckoning Origins,Drama,FALSE,2022-09-02,2027-09-01
+TTL-1616,Wild Frontier 2,Reality,FALSE,2021-03-23,2023-03-23
+TTL-1617,Burning Harvest Files,Drama,FALSE,2024-06-22,2027-06-22
+TTL-1618,Premier League Live 2,Sport,TRUE,2021-03-23,2022-03-23
+TTL-1619,The Current III,Drama,FALSE,2022-03-10,2025-03-09
+TTL-1620,Olympic Games 2,Sport,TRUE,2021-11-15,2026-11-14
+TTL-1621,Northern Anchor,Local Drama,FALSE,2022-11-17,2025-11-16
+TTL-1622,Second Frontier Returns,Thriller,FALSE,2021-11-09,2026-11-08
+TTL-1623,Burning Beacon Files,Reality,FALSE,2022-03-22,2025-03-21
+TTL-1624,Distant Storm,Drama,FALSE,2024-08-26,2027-08-26
+TTL-1625,Red Circuit II,Drama,FALSE,2024-08-25,2026-08-25
+TTL-1626,Broken Archive II,Crime,FALSE,2024-01-02,2028-12-31
+TTL-1627,Silent Beacon Uncovered,Local Drama,FALSE,2021-10-20,2024-10-19
+TTL-1628,Golden Crossing Uncovered,Comedy,FALSE,2021-07-05,2026-07-04
+TTL-1629,Quiet Frontier Uncovered 2,Drama,FALSE,2021-01-21,2023-01-21
+TTL-1630,Second Frontier Files,Local Drama,FALSE,2024-10-11,2025-10-11
+TTL-1631,Burning Current,Reality,FALSE,2024-06-17,2027-06-17
+TTL-1632,Rising Season Files,Local Drama,FALSE,2025-08-15,2028-08-14
+TTL-1633,Northern Signal III,Romance,FALSE,2025-01-15,2030-01-14
+TTL-1634,Golden Ridge Files,Sci-Fi,FALSE,2023-07-12,2026-07-11
+TTL-1635,A Hour 2,Reality,FALSE,2023-07-06,2025-07-05
+TTL-1636,Boxing Fight Night 2023,Sport,TRUE,2024-02-19,2029-02-17
+TTL-1637,Golden Kingdom III,Documentary,FALSE,2024-02-15,2029-02-13
+TTL-1638,Red Circuit III,Crime,FALSE,2024-02-23,2027-02-22
+TTL-1639,Currie Cup 2025 2,Sport,TRUE,2021-01-16,2026-01-15
